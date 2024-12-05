@@ -5,8 +5,7 @@
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
-Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
-Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
+
 </info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/A%C3%A7%C3%A3o</externallink>
 </channel>
@@ -16,7 +15,7 @@ Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
-Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
+
 </info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Aventura</externallink>
 </channel>
@@ -26,7 +25,7 @@ Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. 
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
-Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
+
 </info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Fic%C3%A7%C3%A3o</externallink>
 </channel>
