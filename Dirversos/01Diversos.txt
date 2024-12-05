@@ -1,34 +1,34 @@
 <channels>
 
 <channel>
-<name>[B][COLOR lime]L[/COLOR][COLOR white]ançamentos[/COLOR][/B]</name>
+<name>[B][COLOR lime]Ação[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
 Lembre-se de fornecer o máximo de detalhes possível ao relatar um link quebrado.
 Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 </info>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/IMDb.resolverurl/refs/heads/master/teste1.txt</externallink>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/A%C3%A7%C3%A3o</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]F[/COLOR][COLOR white]ilmes[/COLOR][/B]</name>
+<name>[B][COLOR lime]Aventura[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
 Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
 </info>
-<externallink>https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/main/colecao.json</externallink>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Aventura</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]S[/COLOR][COLOR white]éries[/COLOR][/B]</name>
+<name>[B][COLOR lime]Ficção[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
 <info>
 Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
 </info>
-<externallink>https://raw.githubusercontent.com/Gael1303/cn/refs/heads/main/main/news.json</externallink>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Fic%C3%A7%C3%A3o</externallink>
 </channel>
 «««««««««««««««««««««««««
 
