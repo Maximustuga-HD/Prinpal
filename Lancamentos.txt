@@ -1,7 +1,8 @@
 <item>
     <title>Furiosa: Uma Saga Mad Max (2024)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1160d4cf2dd4dcf755227ba8011b32ccea502309&dn=Furiosa%20A%20Mad%20Max%20Saga%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D</link>
-    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nHD1aBR8VaZxGQWKwXr9oHMGe0s.jpg</thumbnail>
+    <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Furiosa.A.Mad.Max.Saga.2024.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.srt</subtitle>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nHD1aBR8VaZxGQWKwXr9oHMGe0s.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg</fanart>
     <info>Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.</info>
     <genre>Ação, Ficção científica, Aventura</genre>
