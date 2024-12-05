@@ -1,5 +1,17 @@
 <channels>
 
+
+
+<channel>
+<name>[B][COLOR lime]Animação[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Anima%C3%A7%C3%A3o</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]Ação[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
@@ -21,6 +33,66 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
+<name>[B][COLOR lime]Comédia[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Com%C3%A9dia</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Crime[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Crime</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]DC[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/DC</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Drama[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Drama</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Fantasia[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Fantasia</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Faroeste[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Faroeste</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B][COLOR lime]Ficção[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
@@ -30,5 +102,66 @@
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Fic%C3%A7%C3%A3o</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Marvel[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Marvel</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Mistério[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Mist%C3%A9rio</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Musical[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Musical</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Romance[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Romance</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Suspense[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Suspense</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR lime]Terror[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Terror</externallink>
+</channel>
+«««««««««««««««««««««««««
+
 
 </channels>
