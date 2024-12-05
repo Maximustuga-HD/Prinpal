@@ -1,5 +1,5 @@
 <item>
-    <title>Godzilla e Kong: O Novo Império</title>
+    <title>Godzilla e Kong: O Novo Império (2024)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a28530a878aedd85e01481a7546262f48e179b10&dn=Godzilla%20X%20Kong%20The%20New%20Empire%20(2024)%20%5BREPACK%5D%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D</link>
 <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Godzilla.X.Kong.The.New.Empire.2024.720p.WEBRip.x264.AAC-YTS.MX.srt</subtitle>    
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fWSGD2yrzz6hscocnMD8AEXIThk.jpg</thumbnail>
