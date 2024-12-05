@@ -4,8 +4,8 @@
 
 <channel>
 <name>[B][COLOR lime]Animação[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<thumbnail>https://i.ibb.co/frLkJCB/Animation.png</thumbnail>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -14,8 +14,8 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR lime]Ação[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<thumbnail>https://i.ibb.co/0Crb51K/Action.png</thumbnail>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -25,7 +25,7 @@
 <channel>
 <name>[B][COLOR lime]Aventura[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -35,7 +35,7 @@
 <channel>
 <name>[B][COLOR lime]Comédia[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -45,7 +45,7 @@
 <channel>
 <name>[B][COLOR lime]Crime[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -55,7 +55,7 @@
 <channel>
 <name>[B][COLOR lime]DC[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -65,7 +65,7 @@
 <channel>
 <name>[B][COLOR lime]Drama[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -75,7 +75,7 @@
 <channel>
 <name>[B][COLOR lime]Fantasia[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -85,7 +85,7 @@
 <channel>
 <name>[B][COLOR lime]Faroeste[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -95,7 +95,7 @@
 <channel>
 <name>[B][COLOR lime]Ficção[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -105,7 +105,7 @@
 <channel>
 <name>[B][COLOR lime]Marvel[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -115,7 +115,7 @@
 <channel>
 <name>[B][COLOR lime]Mistério[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -125,7 +125,7 @@
 <channel>
 <name>[B][COLOR lime]Musical[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -135,7 +135,7 @@
 <channel>
 <name>[B][COLOR lime]Romance[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -145,7 +145,7 @@
 <channel>
 <name>[B][COLOR lime]Suspense[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
@@ -155,7 +155,7 @@
 <channel>
 <name>[B][COLOR lime]Terror[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/asRFRSVxNB4DMwVuJZu5lBsIynR.jpg</fanart>
+<fanart>https://i.ibb.co/zXpRWbJ/fanart.jpg</fanart>
 <info>
 
 </info>
