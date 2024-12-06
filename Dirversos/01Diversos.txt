@@ -4,7 +4,7 @@
 
 <channel>
 <name>[B][COLOR red]A[/COLOR]nimação[/B]</name>
-<thumbnail>https://i.ibb.co/frLkJCB/Animation.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -14,7 +14,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]A[/COLOR]ção[/B]</name>
-<thumbnail>https://i.ibb.co/0Crb51K/Action.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -24,7 +24,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]A[/COLOR]ventura[/B]</name>
-<thumbnail>https://i.ibb.co/X7SwZfk/Adventure.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -34,7 +34,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]C[/COLOR]omédia[/B]</name>
-<thumbnail>https://i.ibb.co/J5PmtSW/Comedy.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -44,7 +44,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]C[/COLOR]rime[/B]</name>
-<thumbnail>https://i.ibb.co/Sw91wr0/Crime.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -54,7 +54,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]D[/COLOR]C[/B]</name>
-<thumbnail>https://i.ibb.co/fXBjPSP/Superhero.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -64,7 +64,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]D[/COLOR]rama[/B]</name>
-<thumbnail>https://i.ibb.co/XXLQT7w/Drama.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -74,7 +74,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]F[/COLOR]antasia[/B]</name>
-<thumbnail>https://i.ibb.co/FqJ0DfY/Fantasy.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -84,7 +84,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]F[/COLOR]aroeste[/B]</name>
-<thumbnail>https://i.ibb.co/nsq6rHz/Western.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -94,7 +94,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]F[/COLOR]icção[/B]</name>
-<thumbnail>https://i.ibb.co/wdSHWhL/Sci-Fi.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -104,7 +104,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]M[/COLOR]arvel[/B]</name>
-<thumbnail>https://i.ibb.co/fXBjPSP/Superhero.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -114,7 +114,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]M[/COLOR]istério[/B]</name>
-<thumbnail>https://i.ibb.co/bNvHjkm/Mystery.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -124,7 +124,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]M[/COLOR]usical[/B]</name>
-<thumbnail>https://i.ibb.co/n3yRdTK/Musical.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -134,7 +134,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]S[/COLOR]uspense[/B]</name>
-<thumbnail>https://i.ibb.co/NZ4xKV5/Suspense.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -144,7 +144,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]T[/COLOR]error[/B]</name>
-<thumbnail>https://i.ibb.co/Sxkw6WT/Horror.png</thumbnail>
+<thumbnail>https://i.ibb.co/5WM8Sr5/tuga.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
