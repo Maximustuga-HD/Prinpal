@@ -134,7 +134,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]S[/COLOR]uspense[/B]</name>
-<thumbnail>https://i.ibb.co/MZ5QPL8/Suspense.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/NZ4xKV5/Suspense.jpg</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
