@@ -1,4 +1,13 @@
 <item>
+    <title>Virgem Maria (2024)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3c73614e3a154a7624a14ed9f7615c04b0ddaeb&dn=Mary%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D</link>
+    <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Elevation.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//HU1NzoFAtpbsgYIZXjKeWCjiry.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sQKPoTdrq7bjeP7plWnbrEuskHr.jpg</fanart>
+    <info>Uma concepção milagrosa, um rei impiedoso e uma perseguição assassina. Esta história bíblica e épica retrata a corajosa jornada de Maria para conceber Jesus.</info>
+    <genre>Ação, Thriller</genre>
+</item>
+<item>
     <title>A Linha da Extinção (2024)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8d5587f1ab1ff36deb4465c2eb82d42df42e59c&dn=Elevation%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5Bx265%5D%20%5B10bit%5D%20%5B5.1%5D%20%5BYTS.MX%5D</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Elevation.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.srt</subtitle>
