@@ -24,7 +24,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]A[/COLOR]ventura[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/X7SwZfk/Adventure.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -34,7 +34,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]C[/COLOR]omédia[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/J5PmtSW/Comedy.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -44,7 +44,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]C[/COLOR]rime[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/Sw91wr0/Crime.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -54,7 +54,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]D[/COLOR]C[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/fXBjPSP/Superhero.jpg</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -64,7 +64,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]D[/COLOR]rama[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/XXLQT7w/Drama.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -74,7 +74,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]F[/COLOR]antasia[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/FqJ0DfY/Fantasy.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -84,7 +84,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]F[/COLOR]aroeste[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/nsq6rHz/Western.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -94,7 +94,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]F[/COLOR]icção[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/wdSHWhL/Sci-Fi.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -104,7 +104,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]M[/COLOR]arvel[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/fXBjPSP/Superhero.jpg</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -114,7 +114,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]M[/COLOR]istério[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/bNvHjkm/Mystery.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
@@ -124,22 +124,12 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]M[/COLOR]usical[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/n3yRdTK/Musical.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
 </info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Musical</externallink>
-</channel>
-«««««««««««««««««««««««««
-<channel>
-<name>[B][COLOR red]R[/COLOR]omance[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
-<fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
-<info>
-
-</info>
-<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Romance</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -154,7 +144,7 @@
 «««««««««««««««««««««««««
 <channel>
 <name>[B][COLOR red]T[/COLOR]error[/B]</name>
-<thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
+<thumbnail>https://i.ibb.co/Sxkw6WT/Horror.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
 
