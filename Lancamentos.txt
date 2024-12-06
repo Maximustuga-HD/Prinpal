@@ -1,7 +1,7 @@
 <item>
     <title>Virgem Maria (2024)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3c73614e3a154a7624a14ed9f7615c04b0ddaeb&dn=Mary%20(2024)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D</link>
-    <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Elevation.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.srt</subtitle>
+    <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Mary.2024.(Renomear).srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//HU1NzoFAtpbsgYIZXjKeWCjiry.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sQKPoTdrq7bjeP7plWnbrEuskHr.jpg</fanart>
     <info>Uma concepção milagrosa, um rei impiedoso e uma perseguição assassina. Esta história bíblica e épica retrata a corajosa jornada de Maria para conceber Jesus.</info>
