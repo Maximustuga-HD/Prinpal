@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[B][COLOR lime]Animação[/COLOR][/B]</name>
+<name>[B][COLOR red]A[/COLOR]nimação[/B]</name>
 <thumbnail>https://i.ibb.co/frLkJCB/Animation.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -13,7 +13,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Ação[/COLOR][/B]</name>
+<name>[B][COLOR red]A[/COLOR]ção[/B]</name>
 <thumbnail>https://i.ibb.co/0Crb51K/Action.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -23,7 +23,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Aventura[/COLOR][/B]</name>
+<name>[B][COLOR red]A[/COLOR]ventura[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -33,7 +33,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Comédia[/COLOR][/B]</name>
+<name>[B][COLOR red]C[/COLOR]omédia[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -43,7 +43,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Crime[/COLOR][/B]</name>
+<name>[B][COLOR red]C[/COLOR]rime[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -53,7 +53,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]DC[/COLOR][/B]</name>
+<name>[B][COLOR red]D[/COLOR]C[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -63,7 +63,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Drama[/COLOR][/B]</name>
+<name>[B][COLOR red]D[/COLOR]rama[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -73,7 +73,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Fantasia[/COLOR][/B]</name>
+<name>[B][COLOR red]F[/COLOR]antasia[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -83,7 +83,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Faroeste[/COLOR][/B]</name>
+<name>[B][COLOR red]F[/COLOR]aroeste[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -93,7 +93,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Ficção[/COLOR][/B]</name>
+<name>[B][COLOR red]F[/COLOR]icção[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -103,7 +103,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Marvel[/COLOR][/B]</name>
+<name>[B][COLOR red]M[/COLOR]arvel[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -113,7 +113,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Mistério[/COLOR][/B]</name>
+<name>[B][COLOR red]M[/COLOR]istério[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -123,7 +123,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Musical[/COLOR][/B]</name>
+<name>[B][COLOR red]M[/COLOR]usical[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -133,7 +133,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Romance[/COLOR][/B]</name>
+<name>[B][COLOR red]R[/COLOR]omance[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -143,7 +143,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Suspense[/COLOR][/B]</name>
+<name>[B][COLOR red]S[/COLOR]uspense[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
@@ -153,7 +153,7 @@
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B][COLOR lime]Terror[/COLOR][/B]</name>
+<name>[B][COLOR red]T[/COLOR]error[/B]</name>
 <thumbnail>https://i.ibb.co/Lg3TwHs/pngegg-3-fw.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
