@@ -1,8 +1,17 @@
 <channels>
 
-
 <channel>
-<name>[B]The Ark S01[/B]</name>
+<name>[B]The Ark S02 (2024)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/rec774m02XNLSjU9qm5z6UUfMRl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nUEcobWsTpvOh23US0MRZXIU8jt.jpg</fanart>
+<info>
+Na 2ª temporada, depois que a corajosa tripulação da Ark One chega ao seu destino e o descobre inabitável, eles precisam sobreviver o suficiente para encontrar um novo lar para si e para todas as naves que os seguirem.
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/The.Ark/02</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B]The Ark S01 (2023)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8ERDntW4Zyr7qrW81vmiJgmpxXN.jpg</fanart>
 <info>
