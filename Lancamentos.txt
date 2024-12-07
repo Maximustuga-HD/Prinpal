@@ -8,6 +8,33 @@
     <genre>Ação, Thriller</genre>
 </item>
 <item>
+    <title>O Conde de Monte Cristo (2024)</title>
+    <link>http://156.228.250.24:8090/stream/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=c5f049cf67d8c4fc039db634a847d292b3c42eaf&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.x264.AAC5.1-YTS.MX.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//r9z0A9pcmakSaixhr5Ki69TmXWu.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg</fanart>
+    <info>Alvo de uma armadilha, o jovem Edmond Dantès é preso no dia de seu casamento por um crime que não cometeu. Após 14 anos na prisão da ilha de Château d’If, ele consegue fugir. Agora rico, ele assume a identidade do Conde de Monte Cristo e se vinga dos homens que o traíram.</info>
+    <genre>Ação, Aventura, Drama, História, Romance, Thriller</genre>
+</item>
+<item>
+    <title>Feios (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Uglies.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=204cc40ab4c230fa9135ef0bbf835d2f42b7e151&index=35&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Uglies.2024.(Renomear).srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//m4er6cm6t7k8ViGSVV4ZX9CXfnx.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y4NzXdvpJdwRmsnOT7HdkmHh6Yn.jpg</fanart>
+    <info>Em um futuro distópico que impõe rígidos padrões de beleza, uma adolescente aguardando sua cirurgia plástica obrigatória sai em busca da amiga desaparecida.</info>
+    <genre>Ficção científica, Aventura, Ação</genre>
+</item>
+<item>
+    <title>Apocalipse Z: O Princípio do Fim (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Apocalypse.Z.El.Principio.Del.Fin.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=692515e0656801fbdff0a50d42a9e1052224c557&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Apocalypse.Z.The.Beginning.of.the.End.2024.(Renomear).srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tsFAhay6bcjkawEVoOiu66GRkLT.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2fxnTXr8NwyTFkunkimJkGkhqfy.jpg</fanart>
+    <info>Quando um tipo de raiva que transforma as pessoas em criaturas agressivas se espalha pelo planeta, Manel se isola em casa com seu gato, confiando em sua inteligência para sobreviver; mas logo eles precisam sair em busca de comida, por terra e por mar, esquivando-se de muitos perigos.</info>
+    <genre>Drama, Ação, Terror</genre>
+</item>
+<item>
     <title>A Linha da Extinção (2024)</title>
     <link>http://156.228.250.24:8090/stream/Elevation.2024.1080p.WEBRip.x265.10bit.AAC5.1-%5BYTS.MX%5D.mp4?link=a8d5587f1ab1ff36deb4465c2eb82d42df42e59c&index=1&play</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Elevation.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.srt</subtitle>
