@@ -2,13 +2,13 @@
 
 
 <channel>
-<name>[B][COLOR red]4K[/COLOR] Ultra HD[/B]</name>
-<thumbnail>https://i.ibb.co/LZMr8FH/pngegg-2.png</thumbnail>
-<fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
+<name>[B]The Ark S01[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8ERDntW4Zyr7qrW81vmiJgmpxXN.jpg</fanart>
 <info>
-
+100 anos no futuro, as missões de colonização planetária começaram como uma necessidade para ajudar a garantir a sobrevivência da raça humana. A primeira dessas missões em uma espaçonave conhecida como Ark One encontra um evento catastrófico que causa destruição em massa e perda de vidas. Faltando mais de um ano para chegar ao planeta-alvo, falta de suprimentos para sustentar a vida e perda de liderança, a tripulação restante deve se tornar a melhor versão de si mesma para permanecer no curso e sobreviver.
 </info>
-<externallink>https://XXXXXXXXX</externallink>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/The.Ark/01</externallink>
 </channel>
 «««««««««««««««««««««««««
 
