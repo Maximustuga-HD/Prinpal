@@ -1,1 +1,16 @@
-123
+<channels>
+
+
+<channel>
+<name>[B][COLOR red]4K[/COLOR] Ultra HD[/B]</name>
+<thumbnail>https://i.ibb.co/LZMr8FH/pngegg-2.png</thumbnail>
+<fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/4K</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
+</channels>
