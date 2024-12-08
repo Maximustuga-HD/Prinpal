@@ -1,6 +1,6 @@
 <item>
     <title>Juror #2 (2024)</title>
-    <link>plugin://plugin.video.elementum/play?uri=http://156.228.250.24:8090/stream/Juror.2.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv?link=6337a05b1cd17ab40439025ca8ba84d8aa9a3506&index=1&play</link>
+    <link>http://156.228.250.24:8090/stream/Juror.2.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv?link=6337a05b1cd17ab40439025ca8ba84d8aa9a3506&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Juror.2.2024.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9Qq8InnodUYs8zdam8Zj967i6RO.jpg</fanart>
