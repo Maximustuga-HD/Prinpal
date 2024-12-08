@@ -1,4 +1,13 @@
 <item>
+    <title>Juror #2 (2024)</title>
+    <link>plugin://plugin.video.elementum/play?uri=http://156.228.250.24:8090/stream/Juror.2.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv?link=6337a05b1cd17ab40439025ca8ba84d8aa9a3506&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Juror.2.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9Qq8InnodUYs8zdam8Zj967i6RO.jpg</fanart>
+    <info>While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.</info>
+    <genre>Crime, Drama</genre>
+</item>
+<item>
     <title>Virgem Maria (2024)</title>
     <link>http://156.228.250.24:8090/stream/Mary.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=f3c73614e3a154a7624a14ed9f7615c04b0ddaeb&index=1&play</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Mary.2024.(Renomear).srt</subtitle>
