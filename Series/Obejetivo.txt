@@ -1,5 +1,16 @@
 <channels>
 
+
+<channel>
+<name>[B]Black Doves S01 (2024)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg</fanart>
+<info>
+Quando uma espia que se apresenta como esposa de um político sabe que o amante foi assassinado, une-se a um velho amigo assassino para descobrir a verdade... e vingar-se.
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/Black.Doves/01</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B]The Ark S02 (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rec774m02XNLSjU9qm5z6UUfMRl.jpg</thumbnail>
