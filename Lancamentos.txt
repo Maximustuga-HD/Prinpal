@@ -1,4 +1,12 @@
 <item>
+    <title>Pets em Ação! (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Gracie.e.Pedro.Dupla.Improvavel.2024.1080p.PORTUGUESE.WEB-DL.H264.mkv?link=eecfb19aa44efbeef80d40ff3d5f27613ec6321c&index=1&play</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//15qZcDm6v9QB8Wcx8su3KNOPKH2.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AjTodtZJlQxycfRPktnUTpknblv.jpg</fanart>
+    <info>Gracie e Pedro não poderiam ser mais diferentes! Ela é uma cachorrinha de raça que acredita ser a melhor de todas, enquanto ele é um gato adotado que se contenta com aventuras nas ruas e até jantar do lixo. Apesar de serem da mesma família, eles não se suportam e vivem discutindo por qualquer coisinha. Durante uma viagem em família, eles acabam se perdendo no aeroporto e, agora, Gracie e Pedro precisam superar suas diferenças e unir forças para encontrar o caminho de volta para casa e para a família que tanto amam.</info>
+    <genre>Animação, Aventura, Comédia, Família</genre>
+</item>
+<item>
     <title>Juror #2 (2024)</title>
     <link>http://156.228.250.24:8090/stream/Juror.2.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv?link=6337a05b1cd17ab40439025ca8ba84d8aa9a3506&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Juror.2.2024.srt</subtitle>
