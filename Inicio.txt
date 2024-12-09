@@ -16,7 +16,7 @@ Isso ajudará a equipe responsável a resolver o problema mais rapidamente.
 <thumbnail>https://i.ibb.co/BfpK84Q/pngegg.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
-Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
+
 </info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/main/Dirversos/01Diversos.txt</externallink>
 </channel>
@@ -26,10 +26,22 @@ Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. 
 <thumbnail>https://i.ibb.co/BfpK84Q/pngegg.png</thumbnail>
 <fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
 <info>
-Se o Addon tiver presença em redes sociais, você pode relatar o problema lá. Muitas vezes, as equipes de mídia social monitoram essas plataformas e podem responder rapidamente a problemas técnicos.
+
 </info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/Obejetivo.txt</externallink>
 </channel>
 «««««««««««««««««««««««««
+<channel>
+<name>[B][COLOR red]C[/COLOR][COLOR white]oleções[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/BfpK84Q/pngegg.png</thumbnail>
+<fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
+<info>
+
+</info>
+<externallink>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Colecao/Colecoo</externallink>
+</channel>
+«««««««««««««««««««««««««
+
+
 
 </channels>
