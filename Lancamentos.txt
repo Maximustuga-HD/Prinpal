@@ -1,4 +1,13 @@
 <item>
+    <title>O Melhor Espetáculo de Natal de Todos os Tempos (2024)</title>
+    <link>http://156.228.250.24:8090/stream/The.Best.Christmas.Pageant.Ever.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=6ad927190739339cdfcb101518e98796ae7a64b4&index=32&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/The.Best.Christmas.Pageant.Ever.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4fnJJTyuMgBvRFgLfSMKz8qkO1z.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//F4RTbMNWsFphGb73I2KhURkua8.jpg</fanart>
+    <info>Os Herdmans são as piores crianças do mundo. Mentem, roubam, fazem bullying… e agora invadiram o evento de Natal da cidade. Grace vai dirigir a peça teatral pela primeira vez, só que ela e a família estão em apuros, principalmente porque ninguém quer os Herdmans ali. Mas acontece que os pequenos atores travessos podem ensinar à cidade o verdadeiro sentido do Natal.</info>
+    <genre>Comédia, Drama</genre>
+</item>
+<item>
     <title>Venom: A Última Dança (2024)</title>
     <link>http://156.228.250.24:8090/stream/Venom.The.Last.Dance.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=fde5329046971e80115e21af022e4964d73a36ba&index=4&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Venom.The.Last.Dance.2024.srt</subtitle>
