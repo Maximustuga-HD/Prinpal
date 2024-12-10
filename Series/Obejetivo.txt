@@ -2,7 +2,16 @@
 
 
 <channel>
-<name>[B]Black Doves S01 (2024)[/B]</name>
+<name>[B]Secret Level S01 (2024)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/n2X5fVCoiunjC1lKnqOrIzSBI8U.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/95Ggx5yxZtdoR31SFRQGy9fGNxW.jpg</fanart>
+<info>
+Uma nova série animada de antologia para adultos, apresentando histórias originais nos mundos de alguns dos videogames mais adorados no mundo todo. Das mentes criativas por trás de LOVE, DEATH + ROBOTS, cada um dos 15 episódios é uma celebração de jogos e jogadores.
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/Secret.Level/01</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B]Black Doves S01 Completa (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2eZNjPQ9f0TQDHpsL2Ecktsv5v6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg</fanart>
 <info>
@@ -12,7 +21,7 @@ Quando uma espia que se apresenta como esposa de um político sabe que o amante 
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B]The Ark S02 (2024)[/B]</name>
+<name>[B]The Ark S02 Completa (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/rec774m02XNLSjU9qm5z6UUfMRl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nUEcobWsTpvOh23US0MRZXIU8jt.jpg</fanart>
 <info>
@@ -22,7 +31,7 @@ Na 2ª temporada, depois que a corajosa tripulação da Ark One chega ao seu des
 </channel>
 «««««««««««««««««««««««««
 <channel>
-<name>[B]The Ark S01 (2023)[/B]</name>
+<name>[B]The Ark S01 Completa (2023)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8ERDntW4Zyr7qrW81vmiJgmpxXN.jpg</fanart>
 <info>
