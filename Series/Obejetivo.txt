@@ -7,6 +7,7 @@
 <fanart>https://image.tmdb.org/t/p/original/95Ggx5yxZtdoR31SFRQGy9fGNxW.jpg</fanart>
 <info>
 Uma nova série animada de antologia para adultos, apresentando histórias originais nos mundos de alguns dos videogames mais adorados no mundo todo. Das mentes criativas por trás de LOVE, DEATH + ROBOTS, cada um dos 15 episódios é uma celebração de jogos e jogadores.
+</info>
 <externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/Secret.Level/01</externallink>
 </channel>
 «««««««««««««««««««««««««
