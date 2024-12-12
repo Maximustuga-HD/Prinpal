@@ -1,4 +1,13 @@
 <item>
+    <title>Drive-Away Dolls (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Red%20One%202024%201080p%20WEB-DL%20HEVC%20x265%205.1%20BONE.mkv?link=e242a6be11026ab3446d825aee95ceff678936dd&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Drive-Away.Dolls.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/6QPKmqntFgLm6sB47AtSelEGGPM.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/pS3ZYqpz1vIbn2bYEcAsH6bUnXh.jpg</fanart>
+    <info>Duas amigas, Jamie e Marian, procuram esquecer os seus problemas durante uma viagem improvisada até Tallahassee. Mas os planos são interrompidos quando se cruzam com um grupo de desastrados criminosos.</info>
+    <genre>Comédia, Crime</genre>
+</item>
+<item>
     <title>Operação Natal (2024)</title>
     <link>http://156.228.250.24:8090/stream/Red%20One%202024%201080p%20WEB-DL%20HEVC%20x265%205.1%20BONE.mkv?link=e242a6be11026ab3446d825aee95ceff678936dd&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Red.One.2024.1080p.2160p.srt</subtitle>
