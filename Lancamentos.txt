@@ -3,7 +3,7 @@
     <link>http://156.228.250.24:8090/stream/Heretic.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=710f7fa3b0a9d13768e2d3e41bd99ddff9daad77&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Heretic.2024.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/original/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg</fanart>
     <info>Duas jovens missionárias são forçadas a provar sua fé quando batem na porta errada e são recebidas pelo diabólico Sr. Reed, ficando presas em seu jogo mortal de gato e rato.</info>
     <genre>Terror, Thriller</genre>
 </item>
@@ -12,7 +12,7 @@
     <link>http://156.228.250.24:8090/stream/The.Best.Christmas.Pageant.Ever.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=6ad927190739339cdfcb101518e98796ae7a64b4&index=32&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/The.Best.Christmas.Pageant.Ever.2024.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//4fnJJTyuMgBvRFgLfSMKz8qkO1z.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//F4RTbMNWsFphGb73I2KhURkua8.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/lTBYJzKCwPGwVfcW598Md8b7HpF.jpg</fanart>
     <info>Os Herdmans são as piores crianças do mundo. Mentem, roubam, fazem bullying… e agora invadiram o evento de Natal da cidade. Grace vai dirigir a peça teatral pela primeira vez, só que ela e a família estão em apuros, principalmente porque ninguém quer os Herdmans ali. Mas acontece que os pequenos atores travessos podem ensinar à cidade o verdadeiro sentido do Natal.</info>
     <genre>Comédia, Drama</genre>
 </item>
@@ -21,7 +21,7 @@
     <link>http://156.228.250.24:8090/stream/Venom.The.Last.Dance.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=fde5329046971e80115e21af022e4964d73a36ba&index=4&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Venom.The.Last.Dance.2024.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fTGJWXuFDcRSIVPgQLbxziGquOC.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//3V4kLQg0kSqPLctI5ziYWabAZYF.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg</fanart>
     <info>Eddie e Venom estão fugindo. Perseguidos pelos dois mundos, a dupla é forçada a tomar uma decisão devastadora que vai fechar as cortinas da última rodada de Venom e Eddie.</info>
     <genre>Ficção científica, Ação, Aventura</genre>
 </item>
@@ -29,7 +29,7 @@
     <title>Pets em Ação! (2024)</title>
     <link>http://156.228.250.24:8090/stream/Gracie.e.Pedro.Dupla.Improvavel.2024.1080p.PORTUGUESE.WEB-DL.H264.mkv?link=eecfb19aa44efbeef80d40ff3d5f27613ec6321c&index=1&play</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//15qZcDm6v9QB8Wcx8su3KNOPKH2.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//AjTodtZJlQxycfRPktnUTpknblv.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/AjTodtZJlQxycfRPktnUTpknblv.jpg</fanart>
     <info>Gracie e Pedro não poderiam ser mais diferentes! Ela é uma cachorrinha de raça que acredita ser a melhor de todas, enquanto ele é um gato adotado que se contenta com aventuras nas ruas e até jantar do lixo. Apesar de serem da mesma família, eles não se suportam e vivem discutindo por qualquer coisinha. Durante uma viagem em família, eles acabam se perdendo no aeroporto e, agora, Gracie e Pedro precisam superar suas diferenças e unir forças para encontrar o caminho de volta para casa e para a família que tanto amam.</info>
     <genre>Animação, Aventura, Comédia, Família</genre>
 </item>
@@ -38,7 +38,7 @@
     <link>http://156.228.250.24:8090/stream/Juror.2.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv?link=6337a05b1cd17ab40439025ca8ba84d8aa9a3506&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Juror.2.2024.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//9Qq8InnodUYs8zdam8Zj967i6RO.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/9Qq8InnodUYs8zdam8Zj967i6RO.jpg</fanart>
     <info>While serving as a juror in a high profile murder trial, family man Justin Kemp finds himself struggling with a serious moral dilemma…one he could use to sway the jury verdict and potentially convict—or free—the accused killer.</info>
     <genre>Crime, Drama</genre>
 </item>
@@ -47,7 +47,7 @@
     <link>http://156.228.250.24:8090/stream/Mary.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=f3c73614e3a154a7624a14ed9f7615c04b0ddaeb&index=1&play</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Mary.2024.(Renomear).srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//HU1NzoFAtpbsgYIZXjKeWCjiry.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//sQKPoTdrq7bjeP7plWnbrEuskHr.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/g1ve211sJJuFHu7nCIU97u90lEl.jpg</fanart>
     <info>Uma concepção milagrosa, um rei impiedoso e uma perseguição assassina. Esta história bíblica e épica retrata a corajosa jornada de Maria para conceber Jesus.</info>
     <genre>Ação, Thriller</genre>
 </item>
@@ -56,7 +56,7 @@
     <link>http://156.228.250.24:8090/stream/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=c5f049cf67d8c4fc039db634a847d292b3c42eaf&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.x264.AAC5.1-YTS.MX.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//r9z0A9pcmakSaixhr5Ki69TmXWu.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/i9qxG4UVgfX4AdMGnfRzMYEowLQ.jpg</fanart>
     <info>Alvo de uma armadilha, o jovem Edmond Dantès é preso no dia de seu casamento por um crime que não cometeu. Após 14 anos na prisão da ilha de Château d’If, ele consegue fugir. Agora rico, ele assume a identidade do Conde de Monte Cristo e se vinga dos homens que o traíram.</info>
     <genre>Ação, Aventura, Drama, História, Romance, Thriller</genre>
 </item>
@@ -64,7 +64,7 @@
     <title>Transformers: O Início (2024)</title>
     <link>http://156.228.250.24:8090/stream/Transformers.One.2024.PT.ENG.1080p.WEB-DL.DDP5.1.H264.TKdotCom.mkv?link=b38297ac21e33b36f1fcad8b27ac622e5fff9dd6&index=1&play</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//vNrB1IhtvFXsrisDGMLntOhdPnX.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//uMXVeVL2v57lMv6pqBmegDHHPqz.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/uMXVeVL2v57lMv6pqBmegDHHPqz.jpg</fanart>
     <info>Descrito como uma "história de origem" ambientada no planeta Cybertron, o filme será centrado na relação entre Optimus Prime e Megatron passando de irmãos de armas a arqui inimigos, e nas fundações das facções que eles liderarão e entrarão em conflito como Autobots e Decepticons.</info>
     <genre>Animação, Ação, Aventura</genre>
 </item>
@@ -73,7 +73,7 @@
     <link>http://156.228.250.24:8090/stream/Uglies.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=204cc40ab4c230fa9135ef0bbf835d2f42b7e151&index=35&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Uglies.2024.(Renomear).srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//m4er6cm6t7k8ViGSVV4ZX9CXfnx.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//y4NzXdvpJdwRmsnOT7HdkmHh6Yn.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/y4NzXdvpJdwRmsnOT7HdkmHh6Yn.jpg</fanart>
     <info>Em um futuro distópico que impõe rígidos padrões de beleza, uma adolescente aguardando sua cirurgia plástica obrigatória sai em busca da amiga desaparecida.</info>
     <genre>Ficção científica, Aventura, Ação</genre>
 </item>
@@ -82,7 +82,7 @@
     <link>http://156.228.250.24:8090/stream/Apocalypse.Z.El.Principio.Del.Fin.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=692515e0656801fbdff0a50d42a9e1052224c557&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Apocalypse.Z.The.Beginning.of.the.End.2024.(Renomear).srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//tsFAhay6bcjkawEVoOiu66GRkLT.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//2fxnTXr8NwyTFkunkimJkGkhqfy.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg</fanart>
     <info>Quando um tipo de raiva que transforma as pessoas em criaturas agressivas se espalha pelo planeta, Manel se isola em casa com seu gato, confiando em sua inteligência para sobreviver; mas logo eles precisam sair em busca de comida, por terra e por mar, esquivando-se de muitos perigos.</info>
     <genre>Drama, Ação, Terror</genre>
 </item>
@@ -91,7 +91,7 @@
     <link>http://156.228.250.24:8090/stream/Elevation.2024.1080p.WEBRip.x265.10bit.AAC5.1-%5BYTS.MX%5D.mp4?link=a8d5587f1ab1ff36deb4465c2eb82d42df42e59c&index=1&play</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Elevation.2024.1080p.WEBRip.x264.AAC5.1-YTS.MX.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kvz7oihahaX0v18x8Ei5L7nyjh6.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//au3o84ub27qTZiMiEc9UYzN74V3.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/kFuRs6RW2wxCg4ilYUIyEpPQA1Y.jpg</fanart>
     <info>Vivendo nas montanhas após o apocalipse, um pai solteiro e duas mulheres se aventuram fora de suas casas e enfrentam criaturas monstruosas para salvar a vida de uma criança.</info>
     <genre>Ação, Ficção Científica, Thriller</genre>
 </item>
@@ -100,12 +100,12 @@
     <link>http://156.228.250.24:8090/stream/Furiosa.A.Mad.Max.Saga.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=1160d4cf2dd4dcf755227ba8011b32ccea502309&index=1&play</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Furiosa.A.Mad.Max.Saga.2024.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//nHD1aBR8VaZxGQWKwXr9oHMGe0s.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/shrwC6U8Bkst9T9J7fr1A50n6x6.jpg</fanart>
     <info>Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.</info>
     <genre>Ação, Ficção científica, Aventura</genre>
 </item>
 <item>
-    <title>O Jogo do Disfarce (2024)</title>
+    <title>Role Play (2024)</title>
     <link>http://156.228.250.24:8090/stream/Role.Play.2024.1080p.WEBRip.x265.10bit.AAC5.1-%5BYTS.MX%5D.mp4?link=1735750ce047caf47c8503a627d9b038ab53c8f7&index=1&play</link>
 <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Role.Play.2024.WEB-DL.WEBRip.(Renomear).srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg</thumbnail>
@@ -118,7 +118,7 @@
     <link>http://156.228.250.24:8090/stream/Beetlejuice.Beetlejuice.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=14f1f11977cb6fae27fb28a8a5f030df3ef9c9cc&index=1&play</link>
     <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Beetlejuice.Beetlejuice.2024.(Renomear).srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//qhuuFtTc3j2YH5uO3Z2Cn6i38Fd.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/yl2GfeCaPoxChcGyM5p7vYp1CKS.jpg</fanart>
     <info>Depois de uma tragédia familiar inesperada, três gerações da família Deetz voltam para casa em Winter River. Ainda assombrada por Beetlejuice, a vida de Lydia vira de cabeça para baixo quando sua filha adolescente rebelde, Astrid, descobre a misteriosa maquete da cidade no sótão, e o portal para a vida após a morte é acidentalmente aberto. Com problemas em ambos os reinos, é apenas uma questão de tempo até que alguém diga o nome de Beetlejuice três vezes, e o demônio travesso volte para levar ao mundo seu próprio estilo de caos.</info>
     <genre>Comédia, Fantasia, Terror</genre>
 </item>
@@ -127,7 +127,7 @@
     <link>http://156.228.250.24:8090/stream/Godzilla.X.Kong.The.New.Empire.2024.REPACK.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=a28530a878aedd85e01481a7546262f48e179b10&index=1&play</link>
 <subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Godzilla.X.Kong.The.New.Empire.2024.720p.WEBRip.x264.AAC-YTS.MX.srt</subtitle>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//fWSGD2yrzz6hscocnMD8AEXIThk.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//veIyxxi5Gs8gvztLEW1Ysb8rrzs.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/20eJMdHIDsf8btCGRGYV5EXkXgO.jpg</fanart>
     <info>O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa. Mergulhando profundamente nos mistérios da Ilha da Caveira e nas origens da Terra Oca, o filme irá explorar a antiga batalha de Titãs que ajudou a forjar esses seres extraordinários e os ligou à humanidade para sempre.</info>
     <genre>Ação, Aventura, Ficção científica</genre>
 </item>
@@ -135,7 +135,7 @@
     <title>Meu Malvado Favorito 4 (2024)</title>
     <link>http://156.228.250.24:8090/stream/Despicable.Me.4.2024.1080p.PT-PT.WEB.H264-ETHEL.mkv?link=3fda72e172f6fc9f487c76e3b55b676647432e50&index=1&play</link>
     <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2//oCnwP87AskNyzATNEBNHHaktjzG.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2//lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
+    <fanart>https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg</fanart>
     <info>Nesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.</info>
     <genre>Animação, Família, Comédia, Ação</genre>
 </item>
