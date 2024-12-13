@@ -1,4 +1,13 @@
 <item>
+    <title>Carry-On (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Carry.On.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=3e778c9810d844a2ed31bba63d75b3df176ba838&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Carry-On.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/sjMN7DRi4sGiledsmllEw5HJjPy.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/83tAd7DxE7xPt5eDYFFW7gEpHjx.jpg</fanart>
+    <info>Um jovem agente da TSA tenta levar a melhor sobre um passageiro misterioso que o chantageou para deixar um pacote perigoso embarcar num voo na véspera de Natal.</info>
+    <genre>Mistério, Thriller, Ação</genre>
+</item>
+<item>
     <title>Dear Santa (2024)</title>
     <link>http://156.228.250.24:8090/stream/Dear.Santa.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=6401837db6856bfb121e2e8c57413f422cab1eea&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Dear.Santa.2024.srt</subtitle>
