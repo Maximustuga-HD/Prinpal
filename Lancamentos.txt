@@ -1,4 +1,13 @@
 <item>
+    <title>Disaster Holiday (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Disaster.Holiday.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=3f9aff0bc529d1d23f3e75ce08fdec6559109c46&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Disaster.Holiday.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/cZ9gDFoAgjVovRgCAybRemGUT4K.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yoz5TXzM1bdHIqfQdpxydu3rYls.jpg</fanart>
+    <info>Tentando se aproximar dos filhos, um pai viciado em trabalho organiza uma viagem em família para a costa de Durban. Mas, na verdade, ele tem uma reunião de negócios.</info>
+    <genre>Comédia, Família</genre>
+</item>
+<item>
     <title>Drive-Away Dolls (2024)</title>
     <link>http://156.228.250.24:8090/stream/Red%20One%202024%201080p%20WEB-DL%20HEVC%20x265%205.1%20BONE.mkv?link=e242a6be11026ab3446d825aee95ceff678936dd&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Drive-Away.Dolls.2024.srt</subtitle>
