@@ -1,6 +1,17 @@
 <channels>
 
 
+
+<channel>
+<name>[B]Invisível S01 (2024)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/x16pD6zKpC0AWJL1wMLnoZrQHX6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tXxWEyywGTkhkYcVMYdaEvRQhNl.jpg</fanart>
+<info>
+Capi, um rapaz de doze anos com uma vida normal, sofreu um terrível acidente que o deixou com uma grave perturbação de stress pós-traumático. Nem a escola, nem os seus amigos, nem a sua família conseguem explicar o que aconteceu. No entanto, o psicólogo que o acompanha está determinado a investigar a sua história e a descobrir as circunstâncias que o levaram até esta situação.
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/Invis%C3%ADvel/01</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B]Secret Level S01 (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/n2X5fVCoiunjC1lKnqOrIzSBI8U.jpg</thumbnail>
