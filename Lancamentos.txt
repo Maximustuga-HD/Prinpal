@@ -1,4 +1,14 @@
 <item>
+    <title>Elton John: Never Too Late (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Elton.John.Never.Too.Late.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?link=e1477c1dcb82fcc6594d53adbd7fd9682543dffb&index=1&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/elton.john.never.too.late.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/fLj4xU8cU8S0BXWwTSgromRQ1lS.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/wenh8IgtsRd8RsmIwOoe1djlKyK.jpg</fanart>
+<info>
+Nesta emocionante jornada que nos leva de volta ao início, Elton John reflete sobre a sua vida e sobre o surpreendente começo dos seus 50 anos de carreira. À medida que se prepara para o seu último concerto no Dodger Stadium, na América do Norte, Elton faz-nos recuar no tempo e relata as suas lutas contra a adversidade, o abuso e a dependência, e como as ultrapassou para se tornar o ícone que é hoje.
+    <genre>Música, Documentário</genre>
+</item>
+<item>
     <title>Gladiador 2 (2024)</title>
     <link>http://156.228.250.24:8090/stream/Gladiator%202%202024%201080p%20WEB-DL%20ENGLiSH%20x264-BAUCKLEY.mkv?link=2150dbd1e4cd9b64f217d78aedb71116b3c098e0&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Gladiator.2.2024.srt</subtitle>
