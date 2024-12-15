@@ -1,5 +1,5 @@
 <channels>
-https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/La.Palma/01
+
 
 <channel>
 <name>[B]Inferno Em La Palma S01 Completa (2024)[/B]</name>
