@@ -2,6 +2,16 @@
 
 
 <channel>
+<name>[B]Duna: Profecia (2024) S01 Completa (2024)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tWb81lXOBUQoyavNzXrp11ss6GS.jpg</fanart>
+<info>
+10.000 anos antes da ascensão de Paul Atreides, as Irmãs Harkonnen lutam contra as forças que ameaçam o futuro da humanidade e estabelecem a lendária seita conhecida como Bene Gesserit.
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/Dune.Prophecy/01</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
 <name>[B]Inferno Em La Palma S01 Completa (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/ylwR62svIok0eq6HlE8ILwOa4fp.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kxGVux8xmIGdU8jPs0O1Vdp3nl.jpg</fanart>
