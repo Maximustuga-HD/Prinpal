@@ -2,7 +2,7 @@
 
 
 <channel>
-<name>[B]Duna: Profecia (2024) S01 Completa (2024)[/B]</name>
+<name>[B]Duna: Profecia (2024) S01 (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/kGRWWvRpI2SVDYnvM3gJb21X0QL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tWb81lXOBUQoyavNzXrp11ss6GS.jpg</fanart>
 <info>
