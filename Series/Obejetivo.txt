@@ -1,9 +1,18 @@
 <channels>
-
-
+https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/La.Palma/01
 
 <channel>
-<name>[B]Invisível S01 (2024)[/B]</name>
+<name>[B]Inferno Em La Palma S01 Completa (2024)[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ylwR62svIok0eq6HlE8ILwOa4fp.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kxGVux8xmIGdU8jPs0O1Vdp3nl.jpg</fanart>
+<info>
+Uma família norueguesa de férias em La Palma enfrenta um cataclismo quando uma jovem investigadora deteta sinais alarmantes de uma erupção vulcânica iminente.
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Series/La.Palma/01</externallink>
+</channel>
+«««««««««««««««««««««««««
+<channel>
+<name>[B]Invisível S01 Completa (2024)[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/x16pD6zKpC0AWJL1wMLnoZrQHX6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tXxWEyywGTkhkYcVMYdaEvRQhNl.jpg</fanart>
 <info>
