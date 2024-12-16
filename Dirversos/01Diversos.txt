@@ -18,7 +18,7 @@
 <info>
 
 </info>
-<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Dirversos/Anima%C3%A7%C3%A3o</externallink>
+<externallink>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/1256</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
@@ -162,15 +162,6 @@
 </channel>
 «««««««««««««««««««««««««
 
-<channel>
-<name>[B][COLOR red]T[/COLOR]ESTES[/B]</name>
-<thumbnail>https://i.ibb.co/VwYm4c7/pngegg-3.png</thumbnail>
-<fanart>https://i.ibb.co/hmqHQ3D/fanart.jpg</fanart>
-<info>
 
-</info>
-<externallink>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/1256</externallink>
-</channel>
-«««««««««««««««««««««««««
 
 </channels>
