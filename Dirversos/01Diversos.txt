@@ -18,7 +18,7 @@
 <info>
 
 </info>
-<externallink>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/1256</externallink>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/1256</externallink>
 </channel>
 «««««««««««««««««««««««««
 <channel>
