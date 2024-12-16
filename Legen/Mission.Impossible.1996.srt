@@ -1,0 +1,3854 @@
+1
+00:00:23,500 --> 00:00:25,084
+<i>Foi muito bom...</i>
+
+2
+00:00:27,962 --> 00:00:29,713
+<i>ter-nos ligado.</i>
+
+3
+00:00:31,799 --> 00:00:34,676
+<i>Não sei o que aconteceu.</i>
+
+4
+00:00:36,261 --> 00:00:38,347
+<i>Estávamos no bar...</i>
+
+5
+00:00:39,891 --> 00:00:40,974
+<i>a beber...</i>
+
+6
+00:00:42,310 --> 00:00:43,851
+<i>a divertir-nos...</i>
+
+7
+00:00:44,894 --> 00:00:46,562
+<i>Nem sequer sei...</i>
+
+8
+00:00:47,647 --> 00:00:50,192
+<i>como cheguei até aqui.</i>
+
+9
+00:00:51,902 --> 00:00:54,654
+Vamos.
+Já está a dormir há tempo demais.
+
+10
+00:00:55,321 --> 00:00:57,574
+<i>Só você pode ajudar-me.</i>
+
+11
+00:01:02,994 --> 00:01:05,914
+<i>Vá lá... vamos.</i>
+
+12
+00:01:06,332 --> 00:01:08,416
+<i>Diga-me o que preciso saber.</i>
+
+13
+00:01:08,667 --> 00:01:10,002
+<i>Vamos.</i>
+
+14
+00:01:10,544 --> 00:01:12,003
+<i>Eles matam-me.</i>
+
+15
+00:01:15,258 --> 00:01:17,008
+<i>Você pediu a minha ajuda.</i>
+
+16
+00:01:19,428 --> 00:01:20,511
+<i>Vamos.</i>
+
+17
+00:01:25,267 --> 00:01:26,600
+<i>O contacto em Minsk...</i>
+
+18
+00:01:26,767 --> 00:01:29,353
+O nome... diz-nos o nome!
+
+19
+00:01:30,689 --> 00:01:32,691
+Dimitri...
+
+20
+00:01:33,941 --> 00:01:35,025
+Miediev.
+
+21
+00:01:49,039 --> 00:01:50,915
+<i>E agora?</i>
+
+22
+00:01:52,709 --> 00:01:53,918
+<i>Vamos beber.</i>
+
+23
+00:01:54,128 --> 00:01:56,004
+Aos amigos!
+
+24
+00:02:16,398 --> 00:02:17,941
+Livra-te daquele esterco.
+
+25
+00:02:30,787 --> 00:02:31,872
+Claire, vá lá...
+
+26
+00:02:57,436 --> 00:03:00,607
+- Conseguimos a informação?
+- Conseguimos.
+
+27
+00:03:44,857 --> 00:03:47,610
+MISSÃO IMPOSSÍVEL
+
+28
+00:03:57,076 --> 00:04:00,289
+- Quer ver um filme, Mr. Rosen?
+- Não, obrigado.
+
+29
+00:04:05,752 --> 00:04:09,839
+- Quer ver um filme, Mr. Phelps?
+- Não, prefiro o teatro.
+
+30
+00:04:10,548 --> 00:04:13,550
+Quer experimentar
+o cinema da Ucrânia?
+
+31
+00:04:15,343 --> 00:04:17,430
+Se me escolher um filme...
+
+32
+00:04:22,018 --> 00:04:23,476
+Obrigado.
+
+33
+00:04:48,210 --> 00:04:50,002
+<i>Bom dia, Mr. Phelps.</i>
+
+34
+00:04:50,127 --> 00:04:52,963
+<i>O homem que está a ver chama-se
+Alexander Golitsyn,</i>
+
+35
+00:04:53,046 --> 00:04:57,384
+<i>um adido da nossa embaixada em
+Praga. Também é um traidor.</i>
+
+36
+00:04:58,176 --> 00:05:01,262
+<i>Roubou metade de uma
+lista NOC da CIA,</i>
+
+37
+00:05:01,387 --> 00:05:05,142
+<i>um registo dos nossos agentes
+infiltrados na Europa de Leste.</i>
+
+38
+00:05:05,392 --> 00:05:06,976
+Só PARA OS OLHOS
+DE JIM PHELPS
+
+39
+00:05:07,060 --> 00:05:09,270
+<i>Por razões de segurança,
+a lista está dividida em duas.</i>
+
+40
+00:05:09,436 --> 00:05:10,480
+NOMES EM CÓDIGO
+
+41
+00:05:10,563 --> 00:05:13,316
+<i>A parte que Golitsyn
+possui contém nomes em código.</i>
+
+42
+00:05:13,398 --> 00:05:15,734
+<i>Mas é inútil sem a outra metade,</i>
+
+43
+00:05:15,818 --> 00:05:18,237
+<i>que faz corresponder os nomes
+codificados aos verdadeiros.</i>
+
+44
+00:05:18,403 --> 00:05:19,780
+NOMES VERDADEIROS -
+LISTA COMPLETA
+
+45
+00:05:19,864 --> 00:05:23,033
+<i>É essa metade que Golitsyn
+planeia roubar da embaixada</i>
+
+46
+00:05:23,076 --> 00:05:25,537
+<i>durante a recepção
+de amanhã à noite.</i>
+
+47
+00:05:25,619 --> 00:05:28,371
+<i>A sua missão,
+Jim, caso decida aceitá-la,</i>
+
+48
+00:05:28,413 --> 00:05:31,207
+<i>é a de obter provas
+fotográficas do roubo,</i>
+
+49
+00:05:31,416 --> 00:05:35,169
+<i>seguir o rasto de Golitsyn até
+ao comprador e deter ambos.</i>
+
+50
+00:05:36,087 --> 00:05:39,882
+<i>Já escolhi uma equipa
+entre o seu grupo habitual.</i>
+
+51
+00:05:39,924 --> 00:05:42,219
+<i>A Sarah Davies já está
+a trabalhar sob disfarce,</i>
+
+52
+00:05:42,344 --> 00:05:45,095
+<i>O Jack Harmon entra em
+qualquer sistema de segurança.</i>
+
+53
+00:05:45,345 --> 00:05:47,557
+<i>A Hannah Williams
+tratará da vigilância,</i>
+
+54
+00:05:47,807 --> 00:05:50,475
+<i>a sua mulher Claire
+encarrega-se do transporte,</i>
+
+55
+00:05:50,600 --> 00:05:53,855
+<i>e o Ethan Hunt será o vosso
+batedor, como de costume.</i>
+
+56
+00:05:54,437 --> 00:05:55,982
+<i>Está neste momento em Kiev</i>
+
+57
+00:05:56,064 --> 00:05:59,110
+<i>e encontra-se convosco em Praga,
+em local seguro.</i>
+
+58
+00:05:59,235 --> 00:06:03,989
+<i>Como sempre, se alguém
+da MI for apanhado ou morto,</i>
+
+59
+00:06:04,071 --> 00:06:07,366
+<i>o Sec. De Estado negará qualquer
+conhecimento da vossa operação.</i>
+
+60
+00:06:07,534 --> 00:06:11,537
+<i>Esta gravação destruir-se-á em
+5 segundos. Boa sorte, Jim.</i>
+
+61
+00:06:30,805 --> 00:06:34,267
+PRAGA
+
+62
+00:06:34,935 --> 00:06:36,812
+Um objectivo muito claro.
+
+63
+00:06:37,730 --> 00:06:40,315
+Fotografamos Golitsyn
+a roubar a lista NOC,
+
+64
+00:06:40,357 --> 00:06:43,628
+seguimo-lo até ao comprador
+e prendêmo-los ambos.
+
+65
+00:06:45,319 --> 00:06:46,987
+Eis o plano.
+
+66
+00:06:47,321 --> 00:06:50,991
+Ethan, vais à embaixada
+com outra identidade.
+
+67
+00:06:51,116 --> 00:06:53,912
+Mistura-te com as pessoas,
+dá nas vistas.
+
+68
+00:06:53,994 --> 00:06:57,040
+- Entendido?
+- Nem podia ser de outro modo.
+
+69
+00:06:57,749 --> 00:07:00,501
+Sarah, tu já estarás na festa
+
+70
+00:07:00,626 --> 00:07:02,711
+a fazer a ligação
+com os visitantes de Washington.
+
+71
+00:07:02,961 --> 00:07:05,589
+Entra em contacto com o Ethan.
+Farão o jogo em conjunto.
+
+72
+00:07:05,714 --> 00:07:07,798
+Não tenho nada para vestir.
+
+73
+00:07:08,884 --> 00:07:10,801
+Arranjas qualquer coisa.
+
+74
+00:07:13,137 --> 00:07:14,796
+Assinalas o Golitsyn
+e entrega-lo à Hannah.
+
+75
+00:07:14,805 --> 00:07:17,267
+Hannah, ficas com
+ele durante toda a festa.
+
+76
+00:07:17,476 --> 00:07:20,268
+- Arranja sítio para vigiá-lo.
+- Tudo bem.
+
+77
+00:07:20,352 --> 00:07:21,853
+Jack...
+
+78
+00:07:22,103 --> 00:07:25,982
+As impressões digitais são
+verificadas no painel do elevador.
+
+79
+00:07:26,150 --> 00:07:27,610
+Então não vou usar "smoking".
+
+80
+00:07:27,692 --> 00:07:32,030
+Abrir, fechar e sair.
+Nenhuma presença residual.
+
+81
+00:07:33,114 --> 00:07:36,035
+Claire, tu cobres
+o exterior no carro.
+
+82
+00:07:36,117 --> 00:07:38,954
+A Hannah irá ter contigo
+quando o Golitsyn sair.
+
+83
+00:07:39,037 --> 00:07:41,330
+Vocês duas
+seguem-no a partir daí.
+
+84
+00:07:41,580 --> 00:07:46,710
+Se algo correr mal, direi "abortar"
+e saem todos imediatamente.
+
+85
+00:07:46,837 --> 00:07:49,964
+Reunimo-nos aqui
+às 4:00 da manhã.
+
+86
+00:07:50,507 --> 00:07:52,299
+Alguma dúvida?
+
+87
+00:07:55,762 --> 00:07:57,721
+Arranja-se uma máquina
+de café para aqui?
+
+88
+00:07:57,887 --> 00:08:01,559
+Não sei o que chamas a isto,
+mas acho que é uma crueldade.
+
+89
+00:08:01,725 --> 00:08:04,060
+- Fui eu quem fez o café.
+- Exactamente.
+
+90
+00:08:04,228 --> 00:08:07,648
+Será ainda pior que a mistela
+que fizeste no celeiro em Kiev?
+
+91
+00:08:07,773 --> 00:08:10,817
+Não digas mal
+do café da minha mulher.
+
+92
+00:08:11,151 --> 00:08:14,321
+- Sentimos a tua falta em Kiev, Jim.
+- Eu também, Ethan.
+
+93
+00:08:14,405 --> 00:08:16,240
+Mais uma missão de recrutamento?
+
+94
+00:08:16,321 --> 00:08:18,700
+Onde te puseram desta vez...
+no Plaza?
+
+95
+00:08:19,241 --> 00:08:21,702
+No hotel Drake, em Chicago.
+
+96
+00:08:21,827 --> 00:08:24,830
+Que castigo!
+Serviço de quartos de 24 horas...
+
+97
+00:08:24,955 --> 00:08:28,083
+- E carros com motorista...
+- Folha de despesas carregada...
+
+98
+00:08:28,208 --> 00:08:30,751
+Está a amolecer com a idade.
+
+99
+00:08:30,878 --> 00:08:32,378
+Muito bem, oiçam.
+
+100
+00:08:33,044 --> 00:08:35,089
+Se esta lista sair para a rua,
+
+101
+00:08:35,255 --> 00:08:38,009
+os nomes dos nossos agentes
+na Europa de Leste
+
+102
+00:08:38,091 --> 00:08:40,211
+estarão à mercê de quem pagar
+melhor para os liquidar.
+
+103
+00:08:41,178 --> 00:08:43,889
+Terroristas do Terceiro Mundo,
+traficantes de armas e droga,
+
+104
+00:08:44,056 --> 00:08:47,018
+todos os que querem livrar-se
+de agentes infiltrados como nós.
+
+105
+00:08:47,976 --> 00:08:51,272
+Se forem expostos,
+serão executados.
+
+106
+00:08:54,481 --> 00:08:59,278
+Eu dirijo a operação daqui.
+Vamos tratar dos pormenores.
+
+107
+00:08:59,696 --> 00:09:02,364
+Há uma câmara
+implantada na armação.
+
+108
+00:09:02,657 --> 00:09:05,619
+Tudo o que vires,
+é transmitido para cá.
+
+109
+00:09:06,119 --> 00:09:07,662
+Vês?
+
+110
+00:09:08,079 --> 00:09:10,789
+- Estás a ouvir-me?
+- Claro que sim.
+
+111
+00:09:12,167 --> 00:09:14,209
+Precisas de um auricular.
+
+112
+00:09:18,171 --> 00:09:20,632
+Tens uns olhos lindos.
+Agora ouves-me?
+
+113
+00:09:20,799 --> 00:09:22,509
+Alto e bom som.
+
+114
+00:09:22,634 --> 00:09:27,306
+Se tiver algum carro à espera e
+sair, seja como for, não o larguem.
+
+115
+00:09:27,473 --> 00:09:30,559
+Tirem a tarde e dêem uma volta
+pelas ruas das redondezas.
+
+116
+00:09:30,684 --> 00:09:32,477
+São muito confusas.
+
+117
+00:09:32,602 --> 00:09:34,728
+Que pensas que andei a fazer
+toda a manhã?
+
+118
+00:09:34,938 --> 00:09:38,024
+- Estamos a usar o Waltzer?
+- É o nosso homem.
+
+119
+00:09:38,775 --> 00:09:41,736
+Não está a presidir
+ao Tribunal Militar?
+
+120
+00:09:42,069 --> 00:09:43,655
+Esta semana não.
+
+121
+00:09:43,820 --> 00:09:47,950
+Esta semana está a pescar
+em County Kildare
+
+122
+00:09:47,992 --> 00:09:50,369
+com um dos nossos melhores
+guias irlandeses.
+
+123
+00:09:50,453 --> 00:09:52,703
+E não deve voltar tão cedo.
+
+124
+00:09:57,751 --> 00:10:02,255
+<i>Com o devido respeito, Senador,
+parece uma acusação idêntica</i>
+
+125
+00:10:02,422 --> 00:10:05,467
+<i>à que o Senador Church
+liderou nos anos 70</i>
+
+126
+00:10:05,592 --> 00:10:10,178
+<i>e que destruiu
+o serviço de informações do país.</i>
+
+127
+00:10:10,303 --> 00:10:12,722
+<i>Quero saber quem é essa gente</i>
+
+128
+00:10:12,849 --> 00:10:15,851
+<i>e como estão a gastar
+o dinheiro dos contribuintes.</i>
+
+129
+00:10:15,976 --> 00:10:18,687
+<i>Da última vez que vi,
+ainda vivíamos em democracia.</i>
+
+130
+00:10:20,022 --> 00:10:21,941
+Pastilha elástica, não?
+
+131
+00:10:24,235 --> 00:10:26,195
+Luz vermelha, luz verde.
+
+132
+00:10:26,320 --> 00:10:29,947
+Se encontrar uma fechadura
+que não abre, misturam-se...
+
+133
+00:10:31,074 --> 00:10:33,201
+e pronto, já está.
+
+134
+00:10:33,826 --> 00:10:35,704
+Tens aí uns 5 segundos.
+
+135
+00:10:38,664 --> 00:10:40,709
+Mas não se pode mascar.
+
+136
+00:11:18,620 --> 00:11:21,664
+Ethan, o Jack já entrou.
+Vamos.
+
+137
+00:11:27,211 --> 00:11:31,465
+<i>Senador, Rand Housman, adido
+do Embaixador. Que tal a ópera?</i>
+
+138
+00:11:33,509 --> 00:11:35,177
+Uma chatice.
+
+139
+00:11:35,510 --> 00:11:38,514
+Vejamos se consigo guiá-lo
+através desta recepção.
+
+140
+00:11:49,899 --> 00:11:51,859
+As janelas abrem-se às 23 horas.
+
+141
+00:11:51,942 --> 00:11:55,196
+Petr Brandl, "Mayor" de Praga,
+e Mrs. Brandl...
+
+142
+00:11:58,950 --> 00:12:00,743
+Não deve lembrar-se de mim,
+pois não?
+
+143
+00:12:00,784 --> 00:12:03,078
+Claro que me lembro.
+Como está, Miss Norman?
+
+144
+00:12:03,162 --> 00:12:04,955
+Está nas escadas.
+
+145
+00:12:10,000 --> 00:12:12,586
+Mr. Golitsyn, prazer em vê-lo.
+
+146
+00:12:14,965 --> 00:12:16,633
+Hannah...
+
+147
+00:12:19,719 --> 00:12:21,763
+<i>Escurece as lentes.</i>
+
+148
+00:12:30,478 --> 00:12:33,983
+<i>Sarah, marca o "pacote" e avança
+para o túnel.</i>
+
+149
+00:12:39,280 --> 00:12:43,323
+A sua equipa disse que queria
+visitar as instalações. Vamos?
+
+150
+00:12:44,284 --> 00:12:45,952
+Por aqui.
+
+151
+00:12:57,630 --> 00:12:59,131
+Bestial!
+
+152
+00:12:59,506 --> 00:13:01,674
+Vai dar à Zona Proibida,
+
+153
+00:13:01,842 --> 00:13:05,220
+que é a única zona de acesso
+limitado nas instalações.
+
+154
+00:13:29,494 --> 00:13:31,662
+O Governador está em posição.
+
+155
+00:13:40,878 --> 00:13:43,465
+- Perdão, posso ajudá-la?
+- Peço desculpa...
+
+156
+00:13:43,590 --> 00:13:47,176
+Como vê, há um Marine de guarda
+e uma câmara de vigilância.
+
+157
+00:13:47,301 --> 00:13:49,220
+Perdão, com licença.
+
+158
+00:13:49,595 --> 00:13:51,639
+Deve estar aqui algures.
+
+159
+00:13:51,806 --> 00:13:54,893
+"Sargento, porque não estáde
+uniforme esta noite?"
+
+160
+00:13:55,893 --> 00:13:59,229
+<i>Temos ordens para usar roupa
+civil esta noite, Senador.</i>
+
+161
+00:14:01,482 --> 00:14:03,066
+Volto já.
+
+162
+00:14:04,734 --> 00:14:08,113
+Senador, tem alguém
+na sua equipa chamado Jack?
+
+163
+00:14:08,696 --> 00:14:11,367
+<i>Acho que tínhamos um Jack...</i>
+
+164
+00:14:11,574 --> 00:14:15,329
+Não se podia confiar nele.
+Atrasava-se constantemente
+
+165
+00:14:15,496 --> 00:14:17,621
+<i>e nunca acabava as tarefas.</i>
+
+166
+00:14:19,873 --> 00:14:23,586
+<i>Tivemos de amarrá-lo
+a um dos meus melhores garanhões</i>
+
+167
+00:14:23,711 --> 00:14:26,631
+<i>e arrastá-lo no meu estábulo
+durante alguns dias.</i>
+
+168
+00:14:26,756 --> 00:14:28,757
+Calma... estou a tratar disso.
+
+169
+00:14:32,469 --> 00:14:34,929
+FICHEIRO CARREGADO
+
+170
+00:14:38,015 --> 00:14:40,476
+CÓDIGO CORRECTO
+ACESSO AUTORIZADO
+
+171
+00:14:42,520 --> 00:14:45,731
+Lamento a demora.
+Uma boa noite para si.
+
+172
+00:14:58,536 --> 00:15:01,746
+O encontro com a Sarah
+fica definitivamente cancelado.
+
+173
+00:15:30,859 --> 00:15:32,526
+Mais alto...
+
+174
+00:15:37,489 --> 00:15:39,532
+Vai para a Zona Proibida.
+
+175
+00:15:42,453 --> 00:15:43,871
+<i>Despacha-te, Ethan.</i>
+
+176
+00:15:43,954 --> 00:15:45,955
+Ele vai na tua direcção.
+
+177
+00:15:59,426 --> 00:16:00,678
+Jack, estamos em posição.
+
+178
+00:16:03,472 --> 00:16:05,308
+Não lhe toquei.
+
+179
+00:16:08,144 --> 00:16:11,270
+- O meu casaco? Estou a gelar.
+- Jack, abre as portas.
+
+180
+00:16:20,905 --> 00:16:23,491
+Está no elevador!
+No elevador!
+
+181
+00:16:23,616 --> 00:16:26,577
+Vamos bloquear a saída
+ao Golitsyn. Abre as portas.
+
+182
+00:16:26,702 --> 00:16:27,703
+Não posso!
+
+183
+00:16:29,788 --> 00:16:31,123
+Vou abrir as portas.
+
+184
+00:17:15,791 --> 00:17:18,294
+- Ele já tem a lista.
+- Muito bem.
+
+185
+00:17:18,419 --> 00:17:20,754
+Salvei-te o coiro de novo, Jack.
+
+186
+00:17:20,920 --> 00:17:23,466
+- Deixa-te disso.
+- Que rico coiro!
+
+187
+00:17:23,922 --> 00:17:25,925
+E um coiro solitário.
+
+188
+00:17:26,342 --> 00:17:28,468
+Transporte dentro de 5 minutos.
+
+189
+00:17:28,553 --> 00:17:30,345
+Encontramo-nos lá.
+
+190
+00:18:12,469 --> 00:18:15,639
+Jack, estamos em posição. Abre
+as portas para o "pacote" sair.
+
+191
+00:18:15,680 --> 00:18:17,641
+Certo. Vou abrir as portas.
+
+192
+00:18:19,226 --> 00:18:22,186
+<i>Atenção às escadas!
+Vai para o móvel.</i>
+
+193
+00:18:31,821 --> 00:18:34,241
+- Jack, que estás a fazer?
+- Nada.
+
+194
+00:18:38,494 --> 00:18:40,329
+ERRO NO ACESSO AO SISTEMA
+
+195
+00:18:41,246 --> 00:18:44,415
+- Não tenho controlo, Jack.
+- Então temos um problema.
+
+196
+00:18:44,500 --> 00:18:45,960
+Corta a energia.
+
+197
+00:18:48,169 --> 00:18:50,213
+- Corta a energia, Jack.
+- Vá lá, Jack!
+
+198
+00:18:51,132 --> 00:18:52,424
+Corta a energia!
+
+199
+00:19:11,151 --> 00:19:13,027
+<i>Jack, estás a ouvir?</i>
+
+200
+00:19:13,528 --> 00:19:15,488
+Uma baixa, Ethan.
+
+201
+00:19:15,904 --> 00:19:17,365
+<i>Há uma baixa.</i>
+
+202
+00:19:37,216 --> 00:19:39,218
+<i>Ethan, fica onde estás.</i>
+
+203
+00:19:39,384 --> 00:19:41,179
+Vou ter contigo.
+
+204
+00:19:56,317 --> 00:19:58,195
+O "pacote" saiu do edifício.
+
+205
+00:20:02,282 --> 00:20:03,408
+Jim...
+
+206
+00:20:04,284 --> 00:20:07,245
+- Ele saiu.
+- Estou a caminho.
+
+207
+00:20:27,264 --> 00:20:29,225
+Jim, ele está na rua.
+
+208
+00:20:30,726 --> 00:20:33,228
+Jim, o "pacote" está na rua.
+
+209
+00:20:37,189 --> 00:20:38,774
+Estou a ser seguido.
+
+210
+00:20:39,108 --> 00:20:41,694
+- Podes despistá-los?
+- Não. Abortar.
+
+211
+00:20:42,152 --> 00:20:43,530
+Ethan, está a sair do alcance.
+
+212
+00:20:48,575 --> 00:20:49,953
+Não pode ser.
+
+213
+00:20:50,078 --> 00:20:52,955
+É uma emboscada. Abortar!
+É uma ordem!
+
+214
+00:20:53,037 --> 00:20:57,793
+- Negativo. O Golitsyn vai embora.
+- Não! Eu disse abortar!
+
+215
+00:21:08,553 --> 00:21:10,472
+Sarah, vigia o "pacote".
+Jim, vou ter contigo.
+
+216
+00:21:10,514 --> 00:21:12,430
+O Jim disse para abortar.
+Devíamos sair daqui.
+
+217
+00:21:12,514 --> 00:21:16,269
+Não. Vamos recuperar o disco,
+percebeste?
+
+218
+00:21:17,311 --> 00:21:18,980
+Agora, vai!
+
+219
+00:21:50,925 --> 00:21:52,344
+Onde estás?
+
+220
+00:21:52,427 --> 00:21:55,847
+- A 182.9 metros da ponte.
+- Estão a vigiar a frequência.
+
+221
+00:21:56,014 --> 00:21:57,683
+Cortem as comunicações rádio.
+
+222
+00:21:57,765 --> 00:22:00,144
+<i>Repito... Cortem as comunicações!</i>
+
+223
+00:22:33,634 --> 00:22:35,384
+<i>Ethan...</i>
+
+224
+00:22:59,825 --> 00:23:04,079
+Sarah, abortar!
+Repito, abortar!
+
+225
+00:23:07,582 --> 00:23:10,000
+Abortar! Estás a ouvir?
+
+226
+00:23:14,589 --> 00:23:16,882
+Sarah... meu Deus!
+
+227
+00:25:40,393 --> 00:25:42,228
+<i>Satcom 7!</i>
+
+228
+00:25:42,353 --> 00:25:45,355
+- Europa Central, sem segurança.
+- Designação?
+
+229
+00:25:45,856 --> 00:25:48,901
+- Bravo, Eco, 1, 1.
+<i>- Vou comutar.</i>
+
+230
+00:25:50,944 --> 00:25:52,488
+<i>Fala Kittridge.</i>
+
+231
+00:25:52,572 --> 00:25:54,739
+- Instalar segurança.
+<i>- Certo. Continua.</i>
+
+232
+00:25:56,908 --> 00:25:59,702
+Fala Ethan Hunt.
+Estão mortos.
+
+233
+00:26:01,412 --> 00:26:05,249
+<i>- Quem é que está morto?
+</i>- A equipa. Morreram todos!
+
+234
+00:26:06,334 --> 00:26:09,587
+O Golitsyn morreu.
+Estavam à nossa espera.
+
+235
+00:26:09,754 --> 00:26:12,257
+Sabiam que vínhamos
+e o disco desapareceu.
+
+236
+00:26:12,382 --> 00:26:14,133
+<i>Estás bem?</i>
+
+237
+00:26:14,217 --> 00:26:17,678
+Estás a ouvir?
+A lista está na rua!
+
+238
+00:26:17,844 --> 00:26:19,554
+<i>Eu ouvi.</i>
+
+239
+00:26:19,638 --> 00:26:21,015
+<i>Vamos tirar-te daí em segurança</i>
+
+240
+00:26:21,097 --> 00:26:23,057
+<i>e depois preocupamo-nos com isso.</i>
+
+241
+00:26:23,100 --> 00:26:24,602
+<i>Foste seguido?</i>
+
+242
+00:26:27,520 --> 00:26:30,858
+- Não me parece.
+<i>- Isso é pouco. Certifica-te!</i>
+
+243
+00:26:30,983 --> 00:26:32,901
+<i>Estás a salvo?</i>
+
+244
+00:26:34,736 --> 00:26:37,947
+<i>Localização Verde, uma hora.
+Estarei lá pessoalmente.</i>
+
+245
+00:26:39,407 --> 00:26:41,743
+- Estás em Praga?
+- Uma hora.
+
+246
+00:27:40,089 --> 00:27:43,385
+Não sabes como lamento.
+
+247
+00:27:44,845 --> 00:27:48,098
+Sei o que o Jim significava
+para ti, Ethan,
+
+248
+00:27:48,432 --> 00:27:52,143
+tanto no plano pessoal
+como no profissional.
+
+249
+00:27:59,858 --> 00:28:02,861
+"Tens aí um passaporte e
+um Visto. É o costume."
+
+250
+00:28:02,986 --> 00:28:07,074
+Tratamos da infiltração pelo
+Canadá e reunimo-nos em Langley.
+
+251
+00:28:07,241 --> 00:28:10,367
+Arranjamos um ou dois suspeitos
+para a Polícia de Praga.
+
+252
+00:28:14,914 --> 00:28:16,249
+Estás a entender?
+
+253
+00:28:18,125 --> 00:28:20,002
+Sim, estou.
+
+254
+00:28:21,879 --> 00:28:24,257
+Já perdemos agentes
+suficientes esta noite.
+
+255
+00:28:24,923 --> 00:28:27,593
+Quer dizer, eu é que perdi...
+
+256
+00:28:29,510 --> 00:28:32,346
+Pareces decidido a culpar-te
+pelo sucedido, Ethan.
+
+257
+00:28:33,766 --> 00:28:35,057
+E resta mais alguém?
+
+258
+00:28:37,019 --> 00:28:39,563
+Sim, compreendo-te.
+
+259
+00:28:45,067 --> 00:28:47,068
+Por que havia outra equipa?
+
+260
+00:28:47,903 --> 00:28:49,113
+Como...?
+
+261
+00:28:50,614 --> 00:28:53,492
+Outros agentes da MI
+na embaixada, esta noite...
+
+262
+00:28:55,495 --> 00:28:57,329
+Não estou a perceber.
+
+263
+00:29:00,708 --> 00:29:03,294
+Vejamos se percebes
+com uma voltinha pela sala.
+
+264
+00:29:03,669 --> 00:29:06,505
+Os russos bêbedos na margem...
+
+265
+00:29:09,048 --> 00:29:11,843
+o par que dançava junto
+de mim na embaixada...
+
+266
+00:29:12,594 --> 00:29:15,721
+o empregado atrás da Hannah
+no cimo das escadas...
+
+267
+00:29:15,930 --> 00:29:17,474
+o do laço.
+
+268
+00:29:17,766 --> 00:29:20,267
+A outra equipa MI...
+
+269
+00:29:20,559 --> 00:29:23,603
+Estás preocupado comigo.
+Porquê?
+
+270
+00:29:26,064 --> 00:29:28,275
+Desde há pouco mais de 2 anos
+
+271
+00:29:28,400 --> 00:29:31,737
+as operações da MI têm sofrido
+consideráveis revezes.
+
+272
+00:29:32,071 --> 00:29:34,573
+Temos alguém infiltrado
+na organização.
+
+273
+00:29:34,698 --> 00:29:37,284
+Descodificámos
+uma mensagem na Internet
+
+274
+00:29:37,409 --> 00:29:40,662
+- de um checo chamado Max.
+- O traficante de armas.
+
+275
+00:29:41,121 --> 00:29:46,376
+Exactamente. O Max parece ter
+dois dons únicos:
+
+276
+00:29:46,626 --> 00:29:50,713
+Manter o anonimato
+e corromper agentes permeáveis.
+
+277
+00:29:51,755 --> 00:29:54,592
+Desta vez,
+chegou até alguém cá de dentro.
+
+278
+00:29:54,633 --> 00:29:57,637
+Colocou-se na posição de eventual
+comprador da lista NOC.
+
+279
+00:29:58,470 --> 00:30:01,305
+Uma operação que designou
+como "Job 3-14".
+
+280
+00:30:01,348 --> 00:30:03,934
+A tarefa que julgou estar a ser
+feita esta noite pelo Golitsyn.
+
+281
+00:30:06,602 --> 00:30:09,439
+A lista que o Golitsyn roubou
+era falsa.
+
+282
+00:30:09,564 --> 00:30:13,901
+Exactamente. A verdadeira
+está bem guardada em Langley.
+
+283
+00:30:14,194 --> 00:30:16,655
+O Golitsyn era uma fachada.
+Era dos nossos.
+
+284
+00:30:18,698 --> 00:30:22,784
+A operação era para apanhar
+o agente infiltrado.
+
+285
+00:30:28,832 --> 00:30:32,128
+A operação era para apanhar
+o agente infiltrado...
+
+286
+00:30:35,630 --> 00:30:38,134
+Ele está bem infiltrado.
+
+287
+00:30:40,176 --> 00:30:42,137
+E, tal como disseste...
+
+288
+00:30:45,514 --> 00:30:47,391
+tu sobreviveste.
+
+289
+00:30:50,186 --> 00:30:52,105
+Quero mostrar-te algo, Ethan.
+
+290
+00:30:54,523 --> 00:30:56,525
+Desde a morte do teu pai,
+
+291
+00:30:56,650 --> 00:30:59,861
+a quinta tem sido gerida
+por um administrador.
+
+292
+00:31:00,029 --> 00:31:04,325
+Agora, de repente, aparecem
+mais de 120 mil dólares no banco.
+
+293
+00:31:04,450 --> 00:31:08,287
+Julgávamos que a doença do teu
+pai tinha limpo a conta bancária.
+
+294
+00:31:08,703 --> 00:31:13,876
+Afinal, uma morte lenta nos EUA
+pode ser muito dispendiosa.
+
+295
+00:31:15,502 --> 00:31:17,377
+Por isso...
+
+296
+00:31:17,503 --> 00:31:21,883
+vamos sair daqui calmamente
+e meter-nos num avião.
+
+297
+00:31:24,676 --> 00:31:27,305
+Compreendo que estejas
+muito nervoso.
+
+298
+00:31:27,430 --> 00:31:29,891
+Kittridge...
+tu nunca me viste nervoso.
+
+299
+00:31:30,474 --> 00:31:36,896
+Subornaste, bajulaste e mataste
+usando a lealdade interna.
+
+300
+00:31:36,939 --> 00:31:41,401
+Podes adorar o diabo,
+mas que seja no inferno!
+
+301
+00:33:42,849 --> 00:33:46,521
+Dinheiro, dinheiro...
+Onde está o raio do dinheiro?
+
+302
+00:34:12,503 --> 00:34:17,590
+<i>Descodificámos uma mensagem na
+Internet de um checo chamado Max.</i>
+
+303
+00:34:18,717 --> 00:34:22,054
+<i>Colocou-se na posição de
+eventual comprador da lista NOC.</i>
+
+304
+00:34:22,137 --> 00:34:24,889
+<i>Uma operação
+que designou como "Job 3-14".</i>
+
+305
+00:34:34,566 --> 00:34:36,859
+FICHEIRO DESCONHECIDO
+
+306
+00:35:04,468 --> 00:35:06,596
+LISTAGEM DE UTILIZADORES
+
+307
+00:35:18,107 --> 00:35:20,109
+BÍBLIA SAGRADA
+
+308
+00:35:20,734 --> 00:35:22,778
+"Job 3-14"...?
+
+309
+00:35:38,876 --> 00:35:43,089
+"Dormindo e descansando com
+reis e conselheiros na Terra..."
+
+310
+00:35:45,924 --> 00:35:47,842
+Filho da mãe!
+
+311
+00:35:53,140 --> 00:35:54,891
+BUSCA: BÍBLIA
+
+312
+00:35:54,975 --> 00:35:57,310
+126 ENCONTRADOS
+ESPECIFICAR GRUPO
+
+313
+00:35:59,437 --> 00:36:01,814
+BUSCA: LIVRO DE JOB
+
+314
+00:36:04,901 --> 00:36:08,655
+MENSAGEM PARA MAX:
+JOB 3-14: DE: JOB.
+
+315
+00:36:11,490 --> 00:36:13,492
+"Mercadoria corrupta."
+
+316
+00:36:13,617 --> 00:36:17,789
+"Extremamente perigosa.
+NÃO UTILIZAR."
+
+317
+00:36:22,000 --> 00:36:25,170
+"A sorte será a dos reis
+e conselheiros..."
+
+318
+00:36:25,503 --> 00:36:28,882
+"Que construíram para si
+lugares agora em ruínas."
+
+319
+00:36:29,007 --> 00:36:33,136
+"Temos de nos encontrar o mais
+depressa possível para falarmos."
+
+320
+00:37:27,104 --> 00:37:28,897
+<i>Ethan...</i>
+
+321
+00:37:30,774 --> 00:37:32,568
+<i>Que estás a fazer?</i>
+
+322
+00:37:34,111 --> 00:37:36,905
+<i>Eu precisava de ti, Ethan!
+Precisava de ti!</i>
+
+323
+00:37:37,072 --> 00:37:38,782
+<i>Na ponte!</i>
+
+324
+00:37:40,365 --> 00:37:42,242
+<i>Mas não estavas lá!</i>
+
+325
+00:37:58,216 --> 00:37:59,759
+Não te mexas!
+
+326
+00:38:01,053 --> 00:38:05,765
+Ethan, está tudo bem.
+Acalma-te.
+
+327
+00:38:06,600 --> 00:38:09,602
+É a Claire. Está tudo bem.
+
+328
+00:38:09,727 --> 00:38:13,271
+- Tu estavas no carro...
+- Não, não estava.
+
+329
+00:38:15,691 --> 00:38:20,278
+- Ouvi no rádio...
+- Cala-te! Eu vi-te no carro!
+
+330
+00:38:21,322 --> 00:38:24,784
+Não. Saí do carro
+e corri para a ponte.
+
+331
+00:38:24,909 --> 00:38:26,744
+Ele disse que alguém...
+
+332
+00:38:26,869 --> 00:38:29,287
+Não venhas com histórias!
+Eu estava na ponte!
+
+333
+00:38:29,371 --> 00:38:31,081
+Não estava ninguém na ponte.
+
+334
+00:38:31,164 --> 00:38:34,417
+- Que aconteceu ao Jim?
+- Acorda, Claire! O Jim morreu!
+
+335
+00:38:34,708 --> 00:38:36,627
+Morreram todos! Todos!
+
+336
+00:38:45,344 --> 00:38:47,221
+Quem te mandou buscar-me?
+
+337
+00:38:47,346 --> 00:38:50,100
+- O Jim morreu...
+- Quem te mandou aqui?
+
+338
+00:38:51,684 --> 00:38:53,144
+Tira o casaco.
+
+339
+00:39:01,485 --> 00:39:03,361
+Onde estiveste?
+
+340
+00:39:06,030 --> 00:39:08,242
+Onde estiveste...?
+
+341
+00:39:08,784 --> 00:39:13,036
+Fui embora.
+Ele disse abortar e fui embora.
+
+342
+00:39:13,163 --> 00:39:16,331
+Isso foi há 4 horas.
+Quem te mandou aqui?
+
+343
+00:39:16,373 --> 00:39:18,585
+- Eles mandaram-te aqui?
+- Eles quem?
+
+344
+00:39:19,793 --> 00:39:23,757
+- Quem te mandou? Quem?
+- Ninguém me mandou!
+
+345
+00:39:24,007 --> 00:39:26,801
+Devíamos encontrar-nos aqui
+às 4 horas.
+
+346
+00:39:26,842 --> 00:39:31,847
+Se a missão abortasse, não devíamos
+vir para cá antes das 4 horas...
+
+347
+00:39:35,350 --> 00:39:37,269
+Se a missão abortasse...
+
+348
+00:39:37,936 --> 00:39:40,354
+às 4 da manhã.
+
+349
+00:39:58,873 --> 00:40:00,750
+Retiraram-me a confiança.
+
+350
+00:40:06,837 --> 00:40:09,924
+Pensam que matei o Jim
+e todos os outros.
+
+351
+00:40:16,055 --> 00:40:19,059
+Apareceram 100 mil dólares
+na conta dos meus pais,
+
+352
+00:40:19,142 --> 00:40:20,560
+vindos não sei de onde.
+
+353
+00:40:21,185 --> 00:40:23,388
+O Kittridge pensa que sou o
+agente infiltrado que perseguem
+
+354
+00:40:23,397 --> 00:40:27,900
+e que trabalho para um traficante de
+armas, um tal Max, há dois anos...
+
+355
+00:40:29,110 --> 00:40:31,152
+para lhe dar
+a nossa lista NOC.
+
+356
+00:40:32,695 --> 00:40:34,072
+Que vais fazer?
+
+357
+00:40:34,407 --> 00:40:36,409
+Vou roubá-la para ele.
+
+358
+00:40:37,951 --> 00:40:40,413
+Ethan, não percebo.
+
+359
+00:40:42,373 --> 00:40:44,957
+Seja quem for o
+agente infiltrado,
+
+360
+00:40:45,082 --> 00:40:47,252
+penso que é conhecido por "Job".
+
+361
+00:40:47,377 --> 00:40:49,937
+Não consigo encontrá-lo, mas se
+ele souber que tenho a lista NOC,
+
+362
+00:40:51,631 --> 00:40:53,049
+ele encontra-me.
+
+363
+00:40:53,133 --> 00:40:56,009
+Vou falar pessoalmente
+com o Kittridge
+
+364
+00:40:56,093 --> 00:40:58,096
+e dizer-lhe que não tens
+nada a ver com isso.
+
+365
+00:40:58,178 --> 00:41:04,267
+Claire, se não morreste...
+ele vai pensar que estás comigo.
+
+366
+00:41:06,728 --> 00:41:08,438
+MENSAGEM EM ESPERA
+
+367
+00:41:19,574 --> 00:41:21,617
+A mensagem é para o Job.
+
+368
+00:41:23,618 --> 00:41:26,788
+Exactamente... e
+eu vou responder.
+
+369
+00:41:26,830 --> 00:41:29,917
+ESQUINA DE NEKAZANKA
+E PRIKOPY. 13 HORAS.
+
+370
+00:41:29,958 --> 00:41:33,129
+"Compre um Dunhill e peça lume
+ao tipo sentado na paragem."
+
+371
+00:41:50,311 --> 00:41:51,644
+Perdão...
+
+372
+00:41:52,979 --> 00:41:54,731
+Pode dar-me lume?
+
+373
+00:42:11,330 --> 00:42:13,500
+Pode tirar o chapéu, por favor?
+
+374
+00:42:17,337 --> 00:42:19,713
+- Porquê?
+- Quer conhecer o Max?
+
+375
+00:42:20,923 --> 00:42:23,091
+Então tem de ser assim.
+
+376
+00:42:33,267 --> 00:42:37,481
+- Pensei que ia ver o Max.
+- Pensou mal. Ninguém vê o Max.
+
+377
+00:42:39,023 --> 00:42:40,775
+Então que faço aqui?
+
+378
+00:42:41,900 --> 00:42:45,529
+Permite que o Max o receba
+e oiça o que tem a dizer.
+
+379
+00:42:45,862 --> 00:42:48,574
+Não sei comunicar
+através de uma mortalha.
+
+380
+00:42:48,657 --> 00:42:51,619
+Se o Max não gostar
+do que tem para lhe dizer,
+
+381
+00:42:51,786 --> 00:42:54,996
+usá-la-á
+por tempo indeterminado.
+
+382
+00:42:57,039 --> 00:42:58,707
+Estou disposto a arriscar.
+
+383
+00:43:04,423 --> 00:43:05,798
+Muito bem.
+
+384
+00:43:10,595 --> 00:43:13,932
+Quem é você e o que faz aqui?
+
+385
+00:43:16,016 --> 00:43:18,018
+Preciso de 150 mil dólares.
+
+386
+00:43:19,603 --> 00:43:21,396
+A sério?
+
+387
+00:43:26,443 --> 00:43:30,405
+E pensou que aparecia aqui
+e eu talvez lhos desse?
+
+388
+00:43:31,407 --> 00:43:34,408
+Porque não?
+Deu 125 mil dólares ao Job.
+
+389
+00:43:36,870 --> 00:43:40,540
+Descobre-se o mistério.
+Você não é o Job.
+
+390
+00:43:43,459 --> 00:43:47,087
+O Job não cita as Escrituras
+nas suas comunicações.
+
+391
+00:43:47,421 --> 00:43:52,718
+E, além disso,
+o tom foi agressivo e jocoso.
+
+392
+00:43:52,843 --> 00:43:54,510
+O Job não era jocoso.
+
+393
+00:43:56,137 --> 00:43:59,432
+Por isso,
+você é uma espécie de paradoxo.
+
+394
+00:44:00,434 --> 00:44:02,394
+- Depende.
+- De quê?
+
+395
+00:44:03,186 --> 00:44:05,271
+Se gosta de paradoxos.
+
+396
+00:44:07,440 --> 00:44:10,277
+Quero 150 mil dólares para hoje.
+
+397
+00:44:10,443 --> 00:44:12,986
+Isso está fora de questão.
+
+398
+00:44:15,656 --> 00:44:18,785
+O disco que o Job lhe vendeu
+é inútil.
+
+399
+00:44:18,951 --> 00:44:22,370
+Era um isco, parte de uma caça
+interna a um agente infiltrado.
+
+400
+00:44:28,085 --> 00:44:30,046
+E como sabe isso?
+
+401
+00:44:31,463 --> 00:44:33,881
+Também pertence à "Companhia"?
+
+402
+00:44:36,133 --> 00:44:37,802
+Como o Job?
+
+403
+00:44:41,932 --> 00:44:43,974
+Estamos a falar de si...
+
+404
+00:44:45,476 --> 00:44:47,396
+Sou um agente NOC...
+isto é, era.
+
+405
+00:44:48,438 --> 00:44:50,105
+Retiraram-me a confiança.
+
+406
+00:44:51,649 --> 00:44:55,861
+- Posso perguntar porquê?
+- É o que quero perguntar ao Job.
+
+407
+00:44:57,987 --> 00:45:01,866
+Mal conheço o Job,
+tal como ele a mim.
+
+408
+00:45:02,118 --> 00:45:05,955
+Mesmo assim, acho que pode
+conseguir apresentar-mo.
+
+409
+00:45:06,080 --> 00:45:07,623
+Por que havia de o fazer?
+
+410
+00:45:07,665 --> 00:45:10,249
+Porque posso entregar-lhe
+a verdadeira lista NOC.
+
+411
+00:45:10,374 --> 00:45:11,626
+A que tem não só é inútil,
+
+412
+00:45:11,751 --> 00:45:15,463
+como tem um dispositivo
+para saberem a sua localização.
+
+413
+00:45:21,135 --> 00:45:22,720
+Meta o disco no computador
+
+414
+00:45:22,845 --> 00:45:24,805
+e, num espaço
+entre 30 segundos e 10 minutos,
+
+415
+00:45:24,889 --> 00:45:27,392
+terá a CIA em peso à porta.
+
+416
+00:45:31,686 --> 00:45:33,688
+É fácil dizer que
+o disco é inútil,
+
+417
+00:45:33,772 --> 00:45:37,317
+pois não posso confirmar
+os dados que contém.
+
+418
+00:45:37,525 --> 00:45:39,777
+Isso não é lá muito sustentável.
+
+419
+00:45:40,654 --> 00:45:46,950
+Muito bem. Utilize-o.
+Mas faça as malas primeiro.
+
+420
+00:46:02,758 --> 00:46:05,677
+26-27...
+Até agora, tudo bem.
+
+421
+00:46:05,802 --> 00:46:08,471
+Isto não é bom para si, amigo.
+
+422
+00:46:08,596 --> 00:46:10,766
+Eu diria que tem 2 minutos.
+
+423
+00:46:43,588 --> 00:46:46,257
+- 32 e 33.
+- Pode não ser um sinal.
+
+424
+00:46:46,298 --> 00:46:49,135
+Pode ser o disco
+rígido a aquecer.
+
+425
+00:46:55,557 --> 00:46:57,434
+44 e 45.
+
+426
+00:47:45,772 --> 00:47:47,774
+O tipo desapareceu, Barnes.
+
+427
+00:47:48,899 --> 00:47:51,069
+Escondeu-se até decidir aparecer.
+
+428
+00:47:51,402 --> 00:47:54,281
+Usamos alguém na embaixada,
+com as autoridades locais,
+
+429
+00:47:54,321 --> 00:47:57,324
+- cortamos-lhe o transporte...
+- Que podemos fazer, Barnes?
+
+430
+00:47:58,326 --> 00:48:02,370
+Pomos alguém no aeroporto?
+Quantas identidades tem o Hunt?
+
+431
+00:48:02,495 --> 00:48:06,124
+Quantas vezes já escapou
+nas alfândegas de vários países?
+
+432
+00:48:06,459 --> 00:48:08,919
+Estes tipos foram treinados
+para serem invisíveis.
+
+433
+00:48:09,753 --> 00:48:12,881
+- Fomos nós quem os ensinou!
+- O que sugere?
+
+434
+00:48:15,050 --> 00:48:19,011
+Não percamos tempo a persegui-lo.
+Vamos fazê-lo vir até nós.
+
+435
+00:48:19,304 --> 00:48:21,014
+Toda a gente
+tem pontos fracos, Barnes.
+
+436
+00:48:21,139 --> 00:48:25,601
+Arranje algo pessoalmente importante
+para ele e pressione-o aí mesmo.
+
+437
+00:48:30,732 --> 00:48:34,194
+O Gunther nunca mais
+me empresta um apartamento.
+
+438
+00:48:36,529 --> 00:48:40,573
+Lamento ter duvidado de si,
+rapaz. É um tipo às direitas.
+
+439
+00:48:40,698 --> 00:48:44,620
+Obrigado, Max.
+Ou será... Maxine?
+
+440
+00:48:46,412 --> 00:48:50,501
+Sabe como é confortável ser
+anónimo na minha profissão.
+
+441
+00:48:52,544 --> 00:48:54,588
+É como um cobertor quente.
+
+442
+00:48:58,465 --> 00:49:01,969
+O meu negócio com o Job
+foi cuidadosamente analisado.
+
+443
+00:49:02,052 --> 00:49:04,092
+Obviamente não foi aprovado
+e acabei por cancelá-lo.
+
+444
+00:49:06,056 --> 00:49:10,686
+- Qual era o seu negócio com o Job?
+- 6 milhões de dólares.
+
+445
+00:49:10,811 --> 00:49:12,438
+Dar-lhe-ei a mesma coisa,
+
+446
+00:49:12,521 --> 00:49:15,774
+mas quero a lista toda
+e não só a da Europa de Leste.
+
+447
+00:49:15,899 --> 00:49:18,068
+Não quero isto aos bocados.
+É muito perigoso.
+
+448
+00:49:18,109 --> 00:49:20,403
+- Quero a lista toda.
+- 10 milhões.
+
+449
+00:49:21,821 --> 00:49:27,160
+10 milhões em títulos negociáveis,
+ao portador e com os cupões anexos.
+
+450
+00:49:27,243 --> 00:49:28,327
+Mais uma coisa...
+
+451
+00:49:30,539 --> 00:49:34,791
+Quero a sua garantia pessoal de
+que será o Job a fazer a troca.
+
+452
+00:49:51,516 --> 00:49:53,267
+O Max aceitou o acordo?
+
+453
+00:49:54,477 --> 00:49:57,605
+Eu entrego a lista NOC
+e o Max entrega o Job.
+
+454
+00:50:00,984 --> 00:50:05,196
+Há 75 balas para a tua Beretta,
+mas só 20 para a Sig Sauer.
+
+455
+00:50:05,529 --> 00:50:10,118
+Um par de óculos com monitor,
+muitos passaportes...
+
+456
+00:50:17,999 --> 00:50:22,128
+Tu próprio o disseste.
+Se não morri, estou contigo.
+
+457
+00:50:23,963 --> 00:50:27,800
+- Tens a certeza sobre isto?
+- O Jim era meu marido.
+
+458
+00:50:27,925 --> 00:50:30,803
+Quero apanhar o
+sacana que fez isto.
+
+459
+00:50:32,804 --> 00:50:34,598
+Vamos precisar de ajuda.
+
+460
+00:50:34,723 --> 00:50:37,893
+Não temos muito tempo.
+Tem de ser gente local.
+
+461
+00:50:38,018 --> 00:50:39,853
+Que tipo de ajuda?
+
+462
+00:50:39,978 --> 00:50:42,565
+DESTITUÍDO
+
+463
+00:51:13,259 --> 00:51:15,179
+O jogo é simples.
+
+464
+00:51:15,721 --> 00:51:19,016
+Quatro jogadores.
+"Exfil" abre o bolso...
+
+465
+00:51:19,308 --> 00:51:22,185
+e o "Cyber" tira a carteira.
+
+466
+00:51:22,310 --> 00:51:23,603
+Banco...?
+
+467
+00:51:24,355 --> 00:51:25,815
+Sede da MI.
+
+468
+00:51:27,356 --> 00:51:30,609
+- Onde fica ao certo?
+- Em Langley.
+
+469
+00:51:33,696 --> 00:51:35,240
+Langley...?
+
+470
+00:51:36,032 --> 00:51:37,783
+Langley na Virgínia?
+
+471
+00:51:39,202 --> 00:51:41,912
+No quartel-general da CIA,
+em Langley?
+
+472
+00:51:43,622 --> 00:51:46,875
+- Ele está a falar a sério?
+- Sempre.
+
+473
+00:51:48,752 --> 00:51:52,880
+"Se vamos à Virgínia, porquenão
+passamos por Fort Knox?"
+
+474
+00:51:53,047 --> 00:51:57,219
+Ponho um helicóptero à entrada
+e meto-o na caixa-forte.
+
+475
+00:51:57,344 --> 00:52:01,473
+Era muito mais fácil
+que entrar na CIA!
+
+476
+00:52:01,556 --> 00:52:04,435
+- Que vamos roubar?
+- Informação.
+
+477
+00:52:04,560 --> 00:52:06,602
+- De que tipo?
+- Lucrativa.
+
+478
+00:52:07,812 --> 00:52:09,479
+Pagamento contra entrega.
+
+479
+00:52:11,982 --> 00:52:16,278
+Não sei... Sinceramente, não sei.
+
+480
+00:52:18,906 --> 00:52:21,908
+Nem parece o Luther Stickell
+de quem ouvi falar.
+
+481
+00:52:22,075 --> 00:52:27,121
+Como é que lhe chamavam? O "Ranger
+da Net", o "Louco dos Circuitos".
+
+482
+00:52:27,204 --> 00:52:30,250
+O único homem que entrou
+no programa-fantasma da NATO.
+
+483
+00:52:30,375 --> 00:52:33,587
+Nunca houve provas
+do meu envolvimento...
+
+484
+00:52:36,965 --> 00:52:39,300
+nessa magnífica obra-prima.
+
+485
+00:52:43,511 --> 00:52:44,846
+Não sabe o que perde.
+
+486
+00:52:46,473 --> 00:52:49,142
+Vai ser o "Everest" dos golpes.
+
+487
+00:52:49,267 --> 00:52:50,627
+Estão a enganar-se
+a vós próprios.
+
+488
+00:52:51,770 --> 00:52:56,274
+Mesmo com os códigos mais
+avançados, com STU's III...
+
+489
+00:52:56,359 --> 00:52:58,069
+O Krieger arranja isso, certo?
+
+490
+00:52:59,861 --> 00:53:02,822
+- Pode levar algum tempo.
+- Quanto tempo?
+
+491
+00:53:02,947 --> 00:53:05,699
+Não foi isso que
+a Claire me disse.
+
+492
+00:53:05,784 --> 00:53:07,702
+Cérebros artificiais portáteis.
+
+493
+00:53:09,119 --> 00:53:14,041
+Refiro-me aos protótipos 686, com o
+"chip" de inteligência artificial.
+
+494
+00:53:14,876 --> 00:53:16,251
+24 horas.
+
+495
+00:53:20,090 --> 00:53:22,882
+E fico com o
+equipamento no final.
+
+496
+00:53:23,007 --> 00:53:25,803
+Parece que se acabaram
+as desculpas, Luther.
+
+497
+00:53:32,433 --> 00:53:34,852
+Não consigo entrar ali.
+
+498
+00:53:34,977 --> 00:53:38,899
+Não há acesso por "modem"
+ao programa principal.
+
+499
+00:53:39,024 --> 00:53:41,025
+Deve ser por isso
+que lhe chamam "solitário".
+
+500
+00:53:41,566 --> 00:53:43,193
+Isso quer dizer...
+
+501
+00:53:43,403 --> 00:53:46,322
+que tenho de estar
+fisicamente no terminal.
+
+502
+00:53:46,905 --> 00:53:51,244
+Calma, Luther.
+É muito pior do que pensa.
+
+503
+00:53:51,369 --> 00:53:54,162
+<i>O terminal está trancado
+numa caixa-forte.</i>
+
+504
+00:53:54,287 --> 00:53:56,164
+<i>A única pessoa com
+acesso autorizado</i>
+
+505
+00:53:56,249 --> 00:53:58,417
+<i>tem de passar por
+várias seguranças.</i>
+
+506
+00:53:58,667 --> 00:54:00,335
+William Donloe.
+
+507
+00:54:00,918 --> 00:54:05,841
+<i>Primeiro, um identificador de voz
+com código de acesso de 6 dígitos.</i>
+
+508
+00:54:08,509 --> 00:54:11,221
+<i>Só lhe dá acesso à sala exterior.</i>
+
+509
+00:54:12,221 --> 00:54:14,266
+<i>Depois, tem de passar
+por um analisador de retina.</i>
+
+510
+00:54:18,227 --> 00:54:22,356
+<i>Por fim, as seguranças contra
+intrusos só são desactivadas</i>
+
+511
+00:54:22,398 --> 00:54:24,649
+<i>com um cartão
+electrónico duplo...</i>
+
+512
+00:54:25,108 --> 00:54:26,360
+que nós não temos.
+
+513
+00:54:29,488 --> 00:54:33,158
+<i>Dentro da caixa-forte há
+3 sistemas a operar</i>
+
+514
+00:54:33,200 --> 00:54:35,827
+<i>sempre que o técnico sai da sala.</i>
+
+515
+00:54:36,244 --> 00:54:38,038
+<i>O primeiro é um sensor de som.</i>
+
+516
+00:54:38,078 --> 00:54:41,708
+<i>Tudo o que seja mais forte que um
+sussurro, fá-lo disparar.</i>
+
+517
+00:54:42,250 --> 00:54:45,252
+<i>O segundo sistema
+detecta subidas de temperatura.</i>
+
+518
+00:54:45,335 --> 00:54:48,047
+<i>Mesmo o calor de alguém
+não autorizado a entrar</i>
+
+519
+00:54:48,130 --> 00:54:50,007
+<i>fará disparar o alarme</i>
+
+520
+00:54:50,049 --> 00:54:51,849
+<i>se a temperatura subir
+um único grau que seja.</i>
+
+521
+00:54:56,597 --> 00:54:59,682
+<i>A temperatura é controlada
+pelo ar condicionado</i>
+
+522
+00:54:59,850 --> 00:55:02,977
+<i>que vem na conduta aérea,
+9 metros acima do solo.</i>
+
+523
+00:55:05,481 --> 00:55:08,316
+<i>Essa entrada de ar
+tem uma rede laser.</i>
+
+524
+00:55:11,444 --> 00:55:15,864
+<i>O terceiro sistema é no chão
+e é sensível à pressão.</i>
+
+525
+00:55:15,989 --> 00:55:19,201
+<i>O mais pequeno aumento de peso
+faz disparar o alarme.</i>
+
+526
+00:55:20,494 --> 00:55:23,081
+<i>Se um destes
+sistemas for accionado,</i>
+
+527
+00:55:23,206 --> 00:55:26,416
+<i>o bloqueio automático
+das portas é activado.</i>
+
+528
+00:55:26,583 --> 00:55:33,339
+<i>Acreditem, cavalheiros, estes três
+sistemas são do melhor que há.</i>
+
+529
+00:55:37,593 --> 00:55:39,513
+Acha que conseguimos
+fazer isso?
+
+530
+00:55:43,600 --> 00:55:45,060
+Vamos mesmo fazê-lo.
+
+531
+00:56:18,049 --> 00:56:20,801
+Captámos alarmes
+nos sectores 3, 7 e 12.
+
+532
+00:56:20,884 --> 00:56:23,303
+<i>- Eu também.
+- Qual o sector do ar condicionado?</i>
+
+533
+00:56:23,388 --> 00:56:27,100
+<i>- 21. Mas aí não há alarme.
+- Tenho de o desligar.</i>
+
+534
+00:56:27,725 --> 00:56:30,894
+<i>Ninguém entra num sector
+com o alarme activado.</i>
+
+535
+00:56:30,978 --> 00:56:32,938
+<i>Quer pegar fogo
+ao edifício inteiro?</i>
+
+536
+00:56:32,979 --> 00:56:35,648
+<i>Ninguém entra num sector
+com o alarme activado</i>
+
+537
+00:56:35,733 --> 00:56:37,775
+<i>e o do sector 21 ainda
+não foi desactivado.</i>
+
+538
+00:56:42,655 --> 00:56:44,199
+<i>Está desactivado. Vamos.</i>
+
+539
+00:56:57,879 --> 00:57:00,464
+- Quer alguma coisa?
+- Não, obrigada.
+
+540
+00:57:03,176 --> 00:57:05,094
+O 21 é por aqui.
+
+541
+00:57:12,392 --> 00:57:15,771
+- Está a recrutar gente. Para quê?
+- Para sobreviver.
+
+542
+00:57:15,896 --> 00:57:19,191
+"É muito simplista. O tipo
+tem iniciativa. É super activo."
+
+543
+00:57:19,273 --> 00:57:22,693
+A questão é saber o que ele
+quer e onde vai procurá-lo...
+
+544
+00:57:22,778 --> 00:57:27,864
+- Barnes, que barulho é este?
+- Alarme contra incêndios, Gene.
+
+545
+00:57:31,034 --> 00:57:32,703
+Temos de evacuar o edifício?
+
+546
+00:58:21,040 --> 00:58:23,417
+Vocês eram três. O outro tipo?
+
+547
+00:58:25,794 --> 00:58:27,796
+Nada de mortes.
+
+548
+00:58:28,421 --> 00:58:29,464
+Veremos.
+
+549
+01:00:03,512 --> 01:00:04,845
+Olá...
+
+550
+01:01:05,237 --> 01:01:07,572
+Um, dois...
+
+551
+01:01:08,574 --> 01:01:10,116
+três.
+
+552
+01:01:10,284 --> 01:01:12,244
+"Tosta".
+
+553
+01:01:13,870 --> 01:01:16,039
+<i>- "- Confirmo...
+</i>- Óptimo."
+
+554
+01:01:17,664 --> 01:01:19,334
+Luther, vou avançar.
+
+555
+01:01:19,417 --> 01:01:22,502
+<i>"Mestre", pronto para
+hastear a bandeira?</i>
+
+556
+01:01:32,262 --> 01:01:35,891
+Krieger, daqui em diante,
+silêncio absoluto.
+
+557
+01:02:52,338 --> 01:02:53,880
+Vai na sua direcção.
+
+558
+01:02:58,177 --> 01:03:00,137
+Está no corredor
+do analisador de voz.
+
+559
+01:03:00,179 --> 01:03:01,180
+William Donloe.
+
+560
+01:03:17,696 --> 01:03:18,864
+Sala exterior.
+
+561
+01:03:23,201 --> 01:03:24,618
+Vai entrar na caixa-forte.
+
+562
+01:03:30,874 --> 01:03:31,959
+Vamos, depressa.
+
+563
+01:05:00,793 --> 01:05:02,293
+Está na casa de banho.
+
+564
+01:06:13,154 --> 01:06:17,948
+INTRODUZIR NOME
+DONLOE, WILLIAM
+
+565
+01:06:20,242 --> 01:06:22,370
+A-W-9...
+
+566
+01:06:22,870 --> 01:06:25,039
+<i>6-B-6.</i>
+
+567
+01:06:39,469 --> 01:06:41,389
+FICHEIRO LISTA NOC
+
+568
+01:06:44,266 --> 01:06:46,435
+Minha Nossa Senhora!
+
+569
+01:06:46,560 --> 01:06:48,061
+<i>Uma lista NOC!</i>
+
+570
+01:07:49,953 --> 01:07:54,458
+CARREGAR LISTA NOC
+PARA FICHEIRO NOC
+
+571
+01:08:06,427 --> 01:08:07,971
+CARREGAMENTO CONCLUÍDO
+
+572
+01:09:45,229 --> 01:09:46,564
+Está na caixa-forte.
+
+573
+01:10:17,301 --> 01:10:18,552
+Saiam daí.
+
+574
+01:10:20,305 --> 01:10:21,598
+"Tosta"!
+
+575
+01:11:20,653 --> 01:11:24,990
+CHAVE DE ACESSO
+FICHEIRO CARREGADO 9:58 AM
+
+576
+01:11:26,993 --> 01:11:28,493
+Meu Deus!
+
+577
+01:11:44,968 --> 01:11:46,553
+É para si.
+
+578
+01:11:47,595 --> 01:11:48,888
+Kittridge.
+
+579
+01:12:11,910 --> 01:12:15,454
+Você e eu sabemos disto,
+mas mais ninguém.
+
+580
+01:12:15,538 --> 01:12:19,208
+- Certo? Isto nunca aconteceu.
+- E ele?
+
+581
+01:12:20,168 --> 01:12:24,713
+Quero-o num radar do Alasca até ao
+fim do dia. Depois mande-lhe as malas.
+
+582
+01:12:34,431 --> 01:12:37,767
+LONDRES
+
+583
+01:13:04,376 --> 01:13:05,877
+Contactou o seu comprador?
+
+584
+01:13:07,587 --> 01:13:09,172
+Ethan...
+
+585
+01:13:13,593 --> 01:13:17,722
+"Max, governantes que têm ouro,
+mas enchem as casas de prata."
+
+586
+01:13:26,939 --> 01:13:29,108
+Com licença, Mr. Hunt.
+
+587
+01:13:39,200 --> 01:13:41,870
+Não vai a reunião
+nenhuma sem mim.
+
+588
+01:13:43,746 --> 01:13:46,374
+O meu contacto é muito tímido.
+
+589
+01:13:48,669 --> 01:13:52,297
+Acho que não está em posição
+de dar ordens, pois não?
+
+590
+01:13:52,463 --> 01:13:55,257
+Enquanto eu tiver isto.
+
+591
+01:13:55,382 --> 01:13:57,552
+- Krieger...
+- Cala-te!
+
+592
+01:14:03,266 --> 01:14:05,476
+Refere-se a isto?
+
+593
+01:14:05,642 --> 01:14:07,602
+Isso não é a lista.
+
+594
+01:14:07,729 --> 01:14:10,771
+O que foi?
+Não conhece este truque?
+
+595
+01:14:18,279 --> 01:14:20,157
+Onde está agora...?
+
+596
+01:14:23,784 --> 01:14:25,703
+Desapareceu.
+
+597
+01:14:37,130 --> 01:14:38,715
+Mas não para longe.
+
+598
+01:14:43,179 --> 01:14:45,348
+Sei o que está a pensar, Krieger.
+
+599
+01:14:45,514 --> 01:14:47,432
+Está a pensar:
+"Na sala do computador,"
+
+600
+01:14:47,514 --> 01:14:50,018
+"eu estava cá em cima...
+e ele lá em baixo."
+
+601
+01:14:53,062 --> 01:14:56,691
+"Ele levava dois discos..."
+
+602
+01:15:00,152 --> 01:15:02,196
+É difícil lembrarmo-nos
+desses pormenores.
+
+603
+01:15:03,363 --> 01:15:04,490
+Onde está?
+
+604
+01:15:19,587 --> 01:15:22,423
+Pensava mesmo
+que ia dar-lhe a lista NOC?
+
+605
+01:15:24,049 --> 01:15:27,426
+Se tentar algum truque com o meu
+dinheiro, corto-lhe a garganta!
+
+606
+01:15:54,577 --> 01:15:57,247
+<i>Andas outra vez
+em missões de recrutamento?</i>
+
+607
+01:15:57,372 --> 01:15:59,500
+<i>Onde te puseram
+desta vez... no Plaza?</i>
+
+608
+01:15:59,582 --> 01:16:01,126
+<i>Hotel Drake, Chicago.</i>
+
+609
+01:16:03,752 --> 01:16:05,671
+Lamento muito.
+
+610
+01:16:11,719 --> 01:16:13,847
+O Krieger
+era responsabilidade minha.
+
+611
+01:16:20,394 --> 01:16:22,187
+Lamento muito, Ethan.
+
+612
+01:16:27,151 --> 01:16:29,236
+Fizemos o que devíamos.
+
+613
+01:16:31,362 --> 01:16:33,324
+Vou ver se durmo.
+
+614
+01:17:12,319 --> 01:17:14,654
+O Krieger tinha
+mesmo a lista NOC?
+
+615
+01:17:24,496 --> 01:17:27,500
+- Quero que guarde o disco.
+- Por que confia em mim?
+
+616
+01:17:27,541 --> 01:17:30,294
+Porque se soubesse no que se ia
+meter, nunca o teria feito.
+
+617
+01:17:36,715 --> 01:17:38,718
+Não vou permitir
+que a lista seja revelada.
+
+618
+01:17:40,135 --> 01:17:42,680
+Exacto. É essa a sua tarefa
+amanhã no comboio.
+
+619
+01:17:43,848 --> 01:17:45,642
+Não deixe que a lista
+seja revelada.
+
+620
+01:17:53,148 --> 01:17:54,567
+Qual o alcance disto?
+
+621
+01:17:55,859 --> 01:17:58,779
+É difícil dizer.
+Terei de estar bem perto.
+
+622
+01:18:00,530 --> 01:18:02,031
+Ethan, preciso de falar contigo.
+
+623
+01:18:03,825 --> 01:18:06,869
+<i>Um cenário improvável,
+um rancho no coração dos EUA</i>
+
+624
+01:18:06,954 --> 01:18:08,789
+<i>no estado do Wisconsin,</i>
+
+625
+01:18:08,914 --> 01:18:11,417
+<i>onde agentes federais afirmam
+ter descoberto os cabecilhas</i>
+
+626
+01:18:11,624 --> 01:18:13,960
+<i>de um bando internacional
+de tráfico de droga.</i>
+
+627
+01:18:14,043 --> 01:18:17,046
+<i>O bando era liderado
+por Margaret Ethan Hunt</i>
+
+628
+01:18:17,130 --> 01:18:19,340
+<i>e pelo seu cunhado, Donald Hunt.</i>
+
+629
+01:18:19,423 --> 01:18:22,635
+<i>Foram presos esta manhã
+por agentes da DEA</i>
+
+630
+01:18:22,801 --> 01:18:24,721
+<i>numa operação relâmpago</i>
+
+631
+01:18:24,761 --> 01:18:28,932
+<i>destinada a expor
+o fabrico ilegal de metacatinoma,</i>
+
+632
+01:18:29,057 --> 01:18:30,726
+<i>conhecida por "cat".</i>
+
+633
+01:18:30,767 --> 01:18:33,854
+<i>- O que temos aqui é...
+</i>- Kittridge!
+
+634
+01:19:03,256 --> 01:19:04,383
+Kittridge.
+
+635
+01:19:04,508 --> 01:19:07,385
+Vejo que foste visitar
+a minha família.
+
+636
+01:19:07,510 --> 01:19:10,305
+É o Hunt. O que é preciso
+para o localizar?
+
+637
+01:19:10,430 --> 01:19:13,599
+Tens visto televisão, não?
+
+638
+01:19:14,976 --> 01:19:18,980
+Levar a minha mãe algemada
+para a cadeia foi uma bela cena.
+
+639
+01:19:19,063 --> 01:19:21,398
+- Está em Inglaterra.
+- Ligue ao MI5.
+
+640
+01:19:21,482 --> 01:19:26,737
+Ethan, a minha primeira ordem
+depois de te entregares
+
+641
+01:19:26,780 --> 01:19:30,281
+será levantar estas acusações
+ridículas sobre a tua família
+
+642
+01:19:30,324 --> 01:19:33,034
+e eliminá-las completamente
+dos ficheiros.
+
+643
+01:19:33,118 --> 01:19:35,663
+Se te entregares agora,
+
+644
+01:19:35,745 --> 01:19:38,873
+<i>também podemos negociar
+as acusações contra ti.</i>
+
+645
+01:19:40,751 --> 01:19:42,711
+Posso perguntar uma coisa,
+Kittridge?
+
+646
+01:19:44,296 --> 01:19:45,756
+Claro, Ethan.
+
+647
+01:19:46,339 --> 01:19:48,132
+Se estás a lidar com um tipo,
+
+648
+01:19:49,175 --> 01:19:51,636
+<i>que esmagou, apunhalou,</i>
+
+649
+01:19:51,844 --> 01:19:54,471
+matou e fez explodir
+
+650
+01:19:55,265 --> 01:19:58,600
+<i>cinco agentes da
+sua própria equipa MI,</i>
+
+651
+01:19:59,435 --> 01:20:01,479
+o que achas que vou sentir
+
+652
+01:20:01,520 --> 01:20:04,439
+se levares a minha mãe
+e o tio Donald a tribunal?
+
+653
+01:20:04,774 --> 01:20:08,026
+<i>Não sei, Ethan. Diz-me tu.</i>
+
+654
+01:20:11,196 --> 01:20:12,322
+Perdi-o.
+
+655
+01:20:13,991 --> 01:20:15,658
+Precisávamos
+de mais 3 segundos.
+
+656
+01:20:15,701 --> 01:20:18,577
+Ele queria que soubéssemos
+que estava em Londres.
+
+657
+01:20:32,008 --> 01:20:33,843
+És difícil de encontrar.
+
+658
+01:20:43,018 --> 01:20:45,562
+No dia seguinte arrastei-me
+até ao ponto de encontro.
+
+659
+01:20:45,646 --> 01:20:48,147
+Não te encontrei por pouco.
+Seja como for...
+
+660
+01:20:48,897 --> 01:20:50,191
+Verifiquei os nossos disfarces.
+
+661
+01:20:50,275 --> 01:20:51,675
+Foi quando nos
+encontraste nos EUA.
+
+662
+01:20:52,026 --> 01:20:55,030
+Mas partiram antes de eu lá chegar
+e verificar inúmeros lugares.
+
+663
+01:20:55,739 --> 01:20:57,897
+Os países pequenos não têm
+as alfândegas informatizadas.
+
+664
+01:20:57,906 --> 01:20:59,825
+Por isso fui até à Europa.
+
+665
+01:21:00,576 --> 01:21:03,288
+Quando apareceste
+em Inglaterra, foi fácil.
+
+666
+01:21:04,372 --> 01:21:06,373
+Sabias que gostava das rendas
+de Liverpool Street.
+
+667
+01:21:06,414 --> 01:21:08,042
+Fui eu quem te falou delas.
+
+668
+01:21:10,252 --> 01:21:11,794
+Lembro-me disso.
+
+669
+01:21:14,797 --> 01:21:17,885
+Quem estás a enganar?
+Tens de ir a um médico.
+
+670
+01:21:18,092 --> 01:21:20,804
+- Não consegues sentar-te.
+- Eu consigo sentar-me…
+
+671
+01:21:21,387 --> 01:21:23,222
+Não consigo é sentar-me direito.
+
+672
+01:21:23,556 --> 01:21:26,184
+Senta-te, senta-te.
+Não é importante.
+
+673
+01:21:27,684 --> 01:21:29,062
+Ethan...
+
+674
+01:21:31,730 --> 01:21:35,609
+Vi quem disparou sobre mim.
+Vi o agente infiltrado.
+
+675
+01:21:36,402 --> 01:21:37,946
+Era o Kittridge.
+
+676
+01:21:39,029 --> 01:21:41,823
+- O Kittridge...
+- O Kittridge, Ethan!
+
+677
+01:21:47,912 --> 01:21:49,872
+O Kittridge é o
+agente infiltrado.
+
+678
+01:21:50,749 --> 01:21:52,375
+Meu Deus! Claro, tens razão.
+
+679
+01:21:58,589 --> 01:22:00,466
+Ele estava na
+embaixada nessa noite.
+
+680
+01:22:04,553 --> 01:22:07,514
+Primeiro,
+livrou-se do Jack no elevador.
+
+681
+01:22:15,272 --> 01:22:17,191
+Alvejou-te na ponte.
+
+682
+01:23:03,026 --> 01:23:05,819
+Devia ter apoio quando atingiu
+o Golitsyn e a Sarah na vedação.
+
+683
+01:23:24,963 --> 01:23:26,589
+Como é que ele matou a Hannah?
+
+684
+01:23:52,280 --> 01:23:55,367
+Não, podia tê-lo
+feito ele próprio.
+
+685
+01:24:22,309 --> 01:24:23,935
+Porquê, Jim?
+
+686
+01:24:25,604 --> 01:24:27,022
+Porquê...?
+
+687
+01:24:29,649 --> 01:24:33,111
+Se pensares bem, era inevitável.
+Acabou-se a Guerra Fria.
+
+688
+01:24:35,071 --> 01:24:37,572
+Não há mais segredos a esconder
+senão de nós próprios.
+
+689
+01:24:38,323 --> 01:24:41,076
+Operações em que respondes
+apenas perante ti próprio.
+
+690
+01:24:42,036 --> 01:24:43,621
+E, um dia, acordas
+
+691
+01:24:43,705 --> 01:24:47,416
+e o Presidente dos EUA governa
+o país sem a nossa autorização.
+
+692
+01:24:48,250 --> 01:24:50,085
+O sacana! Como se atreve?
+
+693
+01:24:51,588 --> 01:24:53,547
+E de repente acabou-se.
+
+694
+01:24:54,423 --> 01:24:57,092
+Somos uma ferramenta velha
+que não vale a pena actualizar,
+
+695
+01:24:57,174 --> 01:25:00,262
+com um péssimo casamento
+e a ganharmos 62 mil por ano.
+
+696
+01:25:02,388 --> 01:25:06,727
+"Kittridge... vamos perseguiresse
+filho da mãe!"
+
+697
+01:25:12,230 --> 01:25:13,815
+Não vai ser preciso.
+
+698
+01:25:15,025 --> 01:25:16,944
+Ele virá até nós.
+
+699
+01:25:17,485 --> 01:25:19,446
+E o que vai
+obrigá-lo a fazer isso?
+
+700
+01:25:19,904 --> 01:25:23,159
+O que ele não conseguiu
+em Praga... a lista NOC.
+
+701
+01:25:27,495 --> 01:25:29,205
+Meu Deus, Ethan!
+
+702
+01:25:30,790 --> 01:25:32,708
+Ainda bem para ti.
+
+703
+01:25:33,667 --> 01:25:36,921
+Encontro-me com ele amanhã
+no TGV para Paris.
+
+704
+01:25:37,046 --> 01:25:40,466
+A segurança é apertada.
+Nada de armas.
+
+705
+01:25:41,760 --> 01:25:43,845
+Se entregar a lista NOC a Max,
+
+706
+01:25:43,970 --> 01:25:46,055
+Max concordou
+em entregar-me o Job.
+
+707
+01:25:46,847 --> 01:25:48,765
+A Claire e o Stickell
+vão comigo no comboio.
+
+708
+01:25:48,890 --> 01:25:51,643
+O Krieger terá um helicóptero
+à espera em Paris.
+
+709
+01:26:05,532 --> 01:26:07,825
+Estava no café à tua espera,
+Ethan...
+
+710
+01:26:11,079 --> 01:26:13,080
+e lá estava ela...
+
+711
+01:26:13,998 --> 01:26:18,961
+à chuva, viva e linda,
+a pensar que estou morto.
+
+712
+01:26:22,757 --> 01:26:26,384
+Sabe Deus o que ela teve
+de fazer para me esquecer,
+
+713
+01:26:26,509 --> 01:26:27,969
+para continuar a missão.
+
+714
+01:26:32,182 --> 01:26:35,310
+Ela não pode saber sobre mim.
+Ninguém pode saber.
+
+715
+01:26:35,351 --> 01:26:38,396
+- Pelo menos até isto acabar.
+- Tens razão.
+
+716
+01:26:39,522 --> 01:26:41,441
+Há muita coisa em jogo.
+
+717
+01:26:43,610 --> 01:26:46,737
+Quando sairmos daqui,
+vê se descansas um bocado.
+
+718
+01:26:48,364 --> 01:26:51,199
+- Ligo-te de Paris.
+- Combinado.
+
+719
+01:26:52,577 --> 01:26:54,819
+"Encontro no TGV ao meio-dia
+de amanhã. Fica na cadeira 27:"
+
+720
+01:26:54,828 --> 01:26:56,788
+"Traz o nosso
+amigo comum, o Job."
+
+721
+01:27:14,889 --> 01:27:16,640
+O que houve?
+
+722
+01:27:20,144 --> 01:27:22,229
+Mandei uma mensagem a Max.
+
+723
+01:27:26,567 --> 01:27:27,985
+Está combinado para amanhã.
+
+724
+01:27:47,753 --> 01:27:48,754
+Vem cá.
+
+725
+01:28:32,921 --> 01:28:34,966
+- O que é isto?
+- Chegou para si.
+
+726
+01:28:35,091 --> 01:28:37,969
+O raio X não revelou nada.
+Não é explosivo.
+
+727
+01:28:43,098 --> 01:28:45,724
+TGV PARA LONDRES
+TERMINAL MEIO-DIA
+
+728
+01:28:55,693 --> 01:28:57,319
+Quanto falta para o terminal
+de Londres?
+
+729
+01:28:57,403 --> 01:29:00,155
+- 20 a 25 minutos.
+- Têm 10 minutos. Mexam-se!
+
+730
+01:29:38,108 --> 01:29:39,943
+<i>Passe-me à Max.</i>
+
+731
+01:29:40,944 --> 01:29:42,194
+É ele.
+
+732
+01:29:45,865 --> 01:29:47,909
+Não foi isto que combinámos.
+
+733
+01:29:47,993 --> 01:29:50,244
+<i>Peço desculpa,
+mas não pude evitar.</i>
+
+734
+01:29:50,913 --> 01:29:52,914
+<i>Há um bocado de tecido
+sob o seu banco.</i>
+
+735
+01:29:52,997 --> 01:29:54,415
+<i>Rasgue-o e encontra o disco.</i>
+
+736
+01:30:24,902 --> 01:30:28,031
+AGENTES: ACÇÕES NÃO OFICIAIS
+
+737
+01:30:28,072 --> 01:30:29,281
+CONFIRMAÇÃO DE IDENTIDADES
+
+738
+01:30:29,366 --> 01:30:31,326
+Meu caro...
+
+739
+01:30:32,743 --> 01:30:36,246
+Oxalá isto não exclua
+um encontro em privado.
+
+740
+01:30:36,288 --> 01:30:39,040
+<i>Desde que me diga onde
+está o dinheiro, claro que não.</i>
+
+741
+01:30:39,249 --> 01:30:41,919
+A mera possibilidade
+vale 10 milhões de dólares.
+
+742
+01:30:42,002 --> 01:30:44,128
+Carruagem das
+bagagens, prateleira 3,
+
+743
+01:30:44,213 --> 01:30:47,924
+uma mala prateada,
+combinação 3-1-4.
+
+744
+01:30:48,342 --> 01:30:49,968
+<i>E o Job?</i>
+
+745
+01:30:50,134 --> 01:30:51,302
+Não se preocupe.
+
+746
+01:30:51,386 --> 01:30:53,553
+Quando tiver o dinheiro,
+ele encontra-o.
+
+747
+01:31:09,069 --> 01:31:10,653
+LIGAÇÃO MODEM NÃO AUTORIZADA
+
+748
+01:31:11,779 --> 01:31:13,156
+O que há?
+
+749
+01:31:13,448 --> 01:31:15,867
+- Não está a transmitir.
+- Tenta de novo.
+
+750
+01:31:15,951 --> 01:31:19,203
+Raios! Temos de enviar isto
+antes de chegarmos ao túnel.
+
+751
+01:31:24,376 --> 01:31:28,255
+ENVIAR SINAL DE BLOQUEIO
+
+752
+01:31:31,756 --> 01:31:34,175
+- Qual é o problema?
+- Ligação não autorizada.
+
+753
+01:31:34,301 --> 01:31:35,428
+SINAL DE BLOQUEIO
+
+754
+01:31:35,469 --> 01:31:36,970
+Isso estou eu a ver.
+
+755
+01:31:37,054 --> 01:31:38,639
+Verificaste os acumuladores?
+
+756
+01:31:38,680 --> 01:31:40,349
+Verifico sempre.
+
+757
+01:31:40,432 --> 01:31:43,393
+Não venhas com isso.
+Começa do princípio.
+
+758
+01:31:48,147 --> 01:31:50,816
+Tretas! Nem sequer sabemos
+qual o aspecto do Max.
+
+759
+01:31:51,400 --> 01:31:52,860
+Nem precisamos.
+
+760
+01:31:53,067 --> 01:31:55,987
+Se tiver a lista, vai querer
+testá-la com um portátil.
+
+761
+01:32:08,373 --> 01:32:09,542
+Perdão...
+
+762
+01:32:09,792 --> 01:32:11,836
+o seu telefone.
+
+763
+01:32:15,131 --> 01:32:16,466
+Não oiço nada.
+
+764
+01:32:17,717 --> 01:32:20,177
+- Está tudo bem?
+- O acumulador está sem carga.
+
+765
+01:32:20,595 --> 01:32:22,347
+Está a funcionar.
+
+766
+01:32:23,556 --> 01:32:25,475
+TRANSMISSÃO EM CURSO
+
+767
+01:32:34,190 --> 01:32:36,275
+Está na carruagem das bagagens.
+
+768
+01:32:37,569 --> 01:32:41,614
+- Ethan, o Kittridge está no comboio.
+- Estou a caminho.
+
+769
+01:32:41,782 --> 01:32:44,368
+<i>O dinheiro está na carruagem
+das bagagens. Vou lá ter.</i>
+
+770
+01:33:01,050 --> 01:33:02,468
+Barnes...
+
+771
+01:33:40,588 --> 01:33:42,713
+O Ethan vem a caminho.
+
+772
+01:33:44,132 --> 01:33:45,466
+Ouve, Jim...
+
+773
+01:33:46,008 --> 01:33:48,136
+Será boa ideia matá-lo?
+
+774
+01:33:52,222 --> 01:33:54,100
+O Kittridge está aqui.
+
+775
+01:33:57,561 --> 01:33:59,187
+Levamos o dinheiro...
+
+776
+01:33:59,646 --> 01:34:01,480
+e o Ethan fica com as culpas.
+
+777
+01:34:04,150 --> 01:34:06,235
+Mais ninguém sabe que estás vivo.
+
+778
+01:34:08,988 --> 01:34:11,033
+Ninguém vai acreditar nele.
+
+779
+01:34:39,058 --> 01:34:42,978
+Claro que lamento muito
+ouvir-te dizer isso, Claire.
+
+780
+01:34:46,566 --> 01:34:48,735
+- Ethan...
+- Isso mesmo.
+
+781
+01:34:50,277 --> 01:34:53,156
+Ethan Hunt, querida.
+Lembras-te dele, não?
+
+782
+01:34:55,866 --> 01:34:58,534
+- Sabias sobre o Jim?
+- Claro.
+
+783
+01:35:01,163 --> 01:35:03,915
+Quando ele soube ao certo,
+é que é uma boa pergunta.
+
+784
+01:35:04,083 --> 01:35:05,500
+Podes dizer-me, Ethan?
+
+785
+01:35:06,584 --> 01:35:08,587
+Antes ou depois
+de eu aparecer em Londres?
+
+786
+01:35:09,672 --> 01:35:11,632
+Antes de Londres.
+
+787
+01:35:11,673 --> 01:35:14,552
+Mas depois de levares a Bíblia
+do Hotel Drake em Chicago.
+
+788
+01:35:16,010 --> 01:35:18,011
+Puseram-lhe um carimbo, não foi?
+
+789
+01:35:18,136 --> 01:35:19,389
+Aqueles cretinos!
+
+790
+01:35:21,431 --> 01:35:24,601
+Ethan, se sabias
+do Jim, para quê...
+
+791
+01:35:24,685 --> 01:35:28,105
+Para quê a fantochada?
+Para quê correr o risco?
+
+792
+01:35:28,189 --> 01:35:29,649
+Bom, Claire...
+
+793
+01:35:29,690 --> 01:35:31,234
+Tu fizeste a pergunta...
+
+794
+01:35:32,234 --> 01:35:33,444
+e tu és a resposta.
+
+795
+01:35:35,028 --> 01:35:36,697
+Eu sabia do Jim.
+
+796
+01:35:37,029 --> 01:35:39,116
+Mas ele não sabia de ti.
+
+797
+01:35:39,366 --> 01:35:41,285
+Com toda a franqueza, Ethan,
+
+798
+01:35:41,367 --> 01:35:44,830
+a Claire nunca pensou que o
+encanto dela tivesse efeito em ti.
+
+799
+01:35:45,246 --> 01:35:50,167
+Mas eu estava muito confiante, pois
+já tinha experimentado a "mercadoria".
+
+800
+01:35:50,751 --> 01:35:55,298
+"Não cobiçarás...
+a mulher do próximo."
+
+801
+01:35:57,674 --> 01:36:00,344
+Vamos buscar o
+dinheiro e sair daqui.
+
+802
+01:36:00,469 --> 01:36:01,629
+Sim, vamos buscar o dinheiro.
+
+803
+01:36:04,682 --> 01:36:06,183
+O dinheiro.
+
+804
+01:36:08,227 --> 01:36:09,687
+Dá-lhe o dinheiro.
+
+805
+01:36:13,481 --> 01:36:14,982
+Bem o mereceste.
+
+806
+01:36:22,574 --> 01:36:23,909
+Os 10 milhões.
+
+807
+01:36:24,700 --> 01:36:27,579
+A Claire enganou-se
+numa coisa, Jim.
+
+808
+01:36:29,580 --> 01:36:31,165
+Em quê?
+
+809
+01:36:50,225 --> 01:36:52,143
+Bom dia, Mr. Phelps.
+
+810
+01:36:53,936 --> 01:36:56,397
+Assim não sou o único
+a saber que estás vivo.
+
+811
+01:37:00,108 --> 01:37:03,112
+- Sacana!
+- Acabou-se, Jim.
+
+812
+01:37:10,160 --> 01:37:13,371
+- Não, Jim!
+- "Não, Jim"...?
+
+813
+01:40:21,883 --> 01:40:24,386
+LIGAÇÃO TERMINADA
+TRANSMISSÃO PERDIDA
+
+814
+01:40:24,719 --> 01:40:25,928
+Raios!
+
+815
+01:40:28,973 --> 01:40:31,058
+Não, está no túnel!
+
+816
+01:40:32,602 --> 01:40:34,771
+Vai chocar connosco!
+Acelera!
+
+817
+01:42:37,720 --> 01:42:39,764
+Luz vermelha!
+
+818
+01:42:39,930 --> 01:42:41,599
+Luz verde!
+
+819
+01:43:33,856 --> 01:43:36,400
+Acho que é isto que procura.
+
+820
+01:43:42,865 --> 01:43:44,743
+Viva, Max.
+
+821
+01:43:45,327 --> 01:43:48,787
+Os meus advogados
+vão ter um dia em cheio com isto.
+
+822
+01:43:48,828 --> 01:43:51,498
+Uma armadilha,
+um conflito jurisdicional...
+
+823
+01:43:51,582 --> 01:43:54,877
+Deixemos os tribunais fora disto.
+
+824
+01:43:57,255 --> 01:44:02,092
+Hei-de arranjar
+algo de que precisa.
+
+825
+01:44:02,926 --> 01:44:07,221
+<i>Estranho acidente, um helicóptero
+perdeu altitude, entrou num túnel</i>
+
+826
+01:44:07,346 --> 01:44:11,184
+<i>e colidiu com o TGV que fazia
+a ligação Londres-Paris.</i>
+
+827
+01:44:11,268 --> 01:44:15,272
+<i>O piloto morreu,
+mas não houve feridos no comboio.</i>
+
+828
+01:44:19,943 --> 01:44:22,571
+Falaste com a família?
+Como estão eles?
+
+829
+01:44:22,653 --> 01:44:24,196
+Sobre quê?
+
+830
+01:44:24,280 --> 01:44:26,447
+O pedido de desculpas
+do Ministério da Justiça,
+
+831
+01:44:26,531 --> 01:44:29,117
+tratamento VIP... tudo isso.
+
+832
+01:44:30,870 --> 01:44:35,415
+A mãe achou estranho
+confundi-la e ao tio Donald
+
+833
+01:44:35,499 --> 01:44:38,001
+com dois traficantes
+das Keys, na Flórida.
+
+834
+01:44:40,879 --> 01:44:42,298
+À nossa.
+
+835
+01:44:43,714 --> 01:44:45,299
+À tua, Luther.
+
+836
+01:44:45,633 --> 01:44:47,217
+E por termos sido exonerados.
+
+837
+01:44:47,302 --> 01:44:48,761
+Sou o herói do momento.
+
+838
+01:44:52,097 --> 01:44:53,975
+Porque não voltas comigo?
+
+839
+01:44:58,271 --> 01:45:00,315
+Não sei o que vou fazer ao certo.
+
+840
+01:45:03,065 --> 01:45:05,109
+Tenho de apanhar o avião.
+
+841
+01:45:06,069 --> 01:45:09,239
+Que tal a sensação de ser
+um cidadão normal novamente?
+
+842
+01:45:10,740 --> 01:45:12,283
+Não sei...
+
+843
+01:45:14,578 --> 01:45:17,038
+Vou sentir falta de ter má fama.
+
+844
+01:45:17,163 --> 01:45:21,583
+Luther, se isso te faz sentir melhor,
+vou sempre pensar em ti desse modo.
+
+845
+01:45:33,095 --> 01:45:34,971
+Perdão, Mr. Hunt.
+
+846
+01:45:36,599 --> 01:45:38,600
+Quer assistir a um filme?
+
+847
+01:45:42,187 --> 01:45:43,938
+Não, obrigado.
+
+848
+01:45:44,104 --> 01:45:46,942
+E que tal cinema das Caraíbas?
+
+849
+01:45:49,193 --> 01:45:50,968
+Aruba, por exemplo...?
+
