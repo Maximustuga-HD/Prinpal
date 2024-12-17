@@ -1,11 +1,21 @@
 <item>
+    <title>Dirty Angels (2024)</title>
+    <link>http://156.228.250.24:8090/stream/Dirty%20Angels%202024%201080p%20AMZN%20WEB-DL%20DDP5%201%20Atmos%20H%20264-FLUX.mkv?link=634749eaed58da0aec7103ce9619d1104756bb9c&index=2&play</link>
+	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Dirty.Angels.2024.srt</subtitle>
+    <thumbnail>https://image.tmdb.org/t/p/original/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/dWkdmxIkH9y23s9v1PjQFhTGIwo.jpg</fanart>
+<info>
+During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.<info>
+    <genre>Ação, Thriller, Drama</genre>
+</item>
+<item>
     <title>Os Quebra-Nozes (2024)</title>
     <link>http://156.228.250.24:8090/stream/Nutcrackers.2024.1080p.DSNP.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv?link=35952471bb90d1fdd306177f2cb1771c869fd409&index=1&play</link>
 	<subtitle>https://github.com/Maximustuga-HD/Prinpal/raw/refs/heads/main/Legen/Nutcrackers.2024.srt</subtitle>
     <thumbnail>https://image.tmdb.org/t/p/original/dSTgGo0uR3oqVgsiwqdsVDc8vtZ.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/jUYn9ytvxrquviR36OD6n2EqBgW.jpg</fanart>
 <info>
-Quando Mike está prestes a fechar o maior negócio da sua carreira, é desviado da sua vida de solteiro na grande cidade para uma quinta na zona rural do Ohio, a fim de ajudar os seus sobrinhos recentemente órfãos a encontrar um novo lar.
+Quando Mike está prestes a fechar o maior negócio da sua carreira, é desviado da sua vida de solteiro na grande cidade para uma quinta na zona rural do Ohio, a fim de ajudar os seus sobrinhos recentemente órfãos a encontrar um novo lar.<info>
     <genre>Comédia, Drama</genre>
 </item>
 <item>
