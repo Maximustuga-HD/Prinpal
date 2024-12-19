@@ -1,6 +1,17 @@
 <channels>
 
 
+
+<channel>
+<name>[B]O Predador - Coleção[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg</fanart>
+<info>
+Uma série de filmes de ação de ficção científica, centrada numa espécie de seres extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.
+</info>
+<externallink>https://raw.githubusercontent.com/Maximustuga-HD/Prinpal/refs/heads/main/Colecao/Predator/01</externallink>
+</channel>
+«««««««««««««««««««««««««
 <channel>
 <name>[B]Missão: Impossível - Coleção[/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4eqpRQONnsx6umo0BXE6MBW834n.jpg</thumbnail>
