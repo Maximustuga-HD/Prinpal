@@ -1,0 +1,2107 @@
+1
+00:00:45,888 --> 00:00:48,388
+O PREDADOR
+
+2
+00:03:27,557 --> 00:03:29,557
+Argumento
+
+3
+00:03:36,307 --> 00:03:38,307
+Produção
+
+4
+00:03:51,869 --> 00:03:53,706
+Realização
+
+5
+00:03:57,890 --> 00:04:01,453
+- Está com bom aspecto, Dutch.
+- Há quanto tempo, meu General.
+
+6
+00:04:01,894 --> 00:04:03,049
+Entre.
+
+7
+00:04:04,407 --> 00:04:06,910
+Há 18 horas,
+perdemos um helicóptero
+
+8
+00:04:07,160 --> 00:04:10,942
+que trazia um ministro e o seu assessor
+deste país encantador.
+
+9
+00:04:11,192 --> 00:04:15,254
+Temos um transmissor-receptor
+fixo na posição deles... aqui perto.
+
+10
+00:04:17,795 --> 00:04:19,457
+Esse ministro
+
+11
+00:04:19,793 --> 00:04:22,470
+viaja sempre do lado
+errado da fronteira?
+
+12
+00:04:24,196 --> 00:04:28,435
+Pelos vistos, desviaram-se da rota.
+Decerto que estão em mãos da guerrilha.
+
+13
+00:04:28,685 --> 00:04:31,877
+Então, porque não usa o Exército?
+Para que precisa de nós?
+
+14
+00:04:32,900 --> 00:04:35,941
+Porque um parvo qualquer
+acusou-vos de serem os melhores.
+
+15
+00:04:42,792 --> 00:04:43,906
+Dillon!
+
+16
+00:04:46,489 --> 00:04:48,555
+Seu filho da mãe!
+
+17
+00:04:53,493 --> 00:04:57,042
+Que se passa? A CIA fez-te fazer
+muitos exercícios com lápis?
+
+18
+00:05:02,495 --> 00:05:05,101
+- Já chega?
+- Não te faças difícil, Dutch.
+
+19
+00:05:08,684 --> 00:05:10,072
+Está bem, está bem...
+
+20
+00:05:10,365 --> 00:05:13,506
+- Nunca soubeste quando desistir.
+- É óptimo ver-te, Dutch.
+
+21
+00:05:13,898 --> 00:05:17,229
+- Para que é a merda da gravata?
+- Deixa lá a minha gravata.
+
+22
+00:05:17,503 --> 00:05:21,261
+Soube do trabalhinho que fizeste
+em Berlim. Muito bom, Dutch.
+
+23
+00:05:21,511 --> 00:05:23,831
+- Bons velhos tempos.
+- Sim, como nesses tempos.
+
+24
+00:05:24,081 --> 00:05:27,320
+- Então, porque te baldaste da Líbia?
+- Não era o meu estilo.
+
+25
+00:05:27,570 --> 00:05:29,794
+Não tens estilo. Sabes disso.
+
+26
+00:05:30,044 --> 00:05:32,140
+Porque é que te baldaste?
+
+27
+00:05:35,203 --> 00:05:38,173
+Somos uma equipa de resgate,
+e não de assassinos.
+
+28
+00:05:40,625 --> 00:05:41,625
+Bom...
+
+29
+00:05:41,989 --> 00:05:43,333
+Que temos de fazer?
+
+30
+00:05:43,694 --> 00:05:47,306
+Esse ministro é muito importante
+para as nossas operações nestes lados...
+
+31
+00:05:47,556 --> 00:05:51,394
+Dois amigos nossos estão prestes a ser
+apertados, e não podemos permiti-lo.
+
+32
+00:05:52,087 --> 00:05:54,865
+Precisamos dos melhores.
+Por isso é que vocês estão cá.
+
+33
+00:05:55,297 --> 00:05:56,297
+Continua.
+
+34
+00:05:56,547 --> 00:05:58,549
+É simples. Operação de um dia.
+
+35
+00:05:58,799 --> 00:06:01,647
+Seguimos-lhes o rasto,
+caçamo-los, pegamos nos reféns
+
+36
+00:06:01,897 --> 00:06:04,640
+e voltamos antes que alguém
+saiba que nós lá estivemos.
+
+37
+00:06:04,890 --> 00:06:06,261
+Como assim, "nós"?
+
+38
+00:06:06,511 --> 00:06:08,082
+Vou contigo, Dutch.
+
+39
+00:06:10,884 --> 00:06:13,316
+General, a minha equipa
+trabalha sempre sozinha.
+
+40
+00:06:13,789 --> 00:06:14,995
+Sabe disso.
+
+41
+00:06:16,009 --> 00:06:18,121
+Todos temos as nossas ordens, Major.
+
+42
+00:06:18,796 --> 00:06:22,981
+Assim que chegar ao objectivo, o Dillon
+avalia a situação e assume o comando.
+
+43
+00:06:41,228 --> 00:06:44,895
+<i>Recebido, Blue Leader.
+3-5-0, após sua manobra. Terminado.</i>
+
+44
+00:07:29,912 --> 00:07:31,470
+<i>Delta One, zero...</i>
+
+45
+00:07:31,837 --> 00:07:33,676
+<i>- Recebido.
+- ... Two Leader.</i>
+
+46
+00:07:34,085 --> 00:07:37,751
+Pontos de encontro e frequências
+de rádio estão indicadas e fixas.
+
+47
+00:07:38,001 --> 00:07:41,345
+- Contacto com AWACS de 4 em 4 horas.
+- Quem são os nossos reforços?
+
+48
+00:07:41,595 --> 00:07:44,320
+Não há reforços.
+Só temos um bilhete de ida.
+
+49
+00:07:44,570 --> 00:07:47,653
+Assim que passarmos a fronteira,
+estamos por nossa conta.
+
+50
+00:07:49,379 --> 00:07:51,216
+Isto está cada vez melhor.
+
+51
+00:07:51,466 --> 00:07:54,692
+<i>Bird Two Two. Aguento 1 minuto
+até à zona de aterragem.</i>
+
+52
+00:07:54,942 --> 00:07:56,261
+<i>Recebido, Two Two.</i>
+
+53
+00:08:07,889 --> 00:08:08,971
+Billy.
+
+54
+00:08:11,604 --> 00:08:13,797
+No outro dia,
+disse à minha namorada:
+
+55
+00:08:14,047 --> 00:08:15,899
+"Queria uma rata pequena."
+
+56
+00:08:16,209 --> 00:08:19,254
+Ela disse: "Também eu.
+A minha é grande como uma casa!"
+
+57
+00:08:21,149 --> 00:08:23,815
+Ela queria uma mais pequena,
+porque a dela era...
+
+58
+00:08:26,222 --> 00:08:27,869
+... grande como uma casa.
+
+59
+00:08:35,001 --> 00:08:37,437
+Tira essa merda da minha frente.
+
+60
+00:08:40,560 --> 00:08:43,043
+Vocês saíram-me cá
+um bando de panascas!
+
+61
+00:08:43,293 --> 00:08:46,445
+Isto faz de vocês
+uns tiranossauros sexuais,
+
+62
+00:08:46,695 --> 00:08:47,695
+como eu.
+
+63
+00:08:48,258 --> 00:08:50,865
+Prende isto ao teu cu dorido, Blain.
+
+64
+00:09:01,592 --> 00:09:05,604
+Foi em 72. Norte de Hué.
+Eu e o Dutch recebemos um cada um.
+
+65
+00:09:28,002 --> 00:09:30,194
+Hábito nojento que tu tens!
+
+66
+00:09:56,099 --> 00:09:57,419
+<i>Entendido, Leader.</i>
+
+67
+00:10:03,891 --> 00:10:06,484
+Não fazia ideia das saudades
+que ia ter disto, Dutch.
+
+68
+00:10:07,236 --> 00:10:08,778
+Nunca foste muito esperto.
+
+69
+00:10:21,297 --> 00:10:22,762
+Hawkins, é a tua vez.
+
+70
+00:10:24,598 --> 00:10:25,987
+<i>Cordas prontas.</i>
+
+71
+00:13:11,195 --> 00:13:13,144
+Os pilotos levaram
+um tiro na cabeça.
+
+72
+00:13:13,503 --> 00:13:15,233
+Quem o fez arrancou tudo.
+
+73
+00:13:16,603 --> 00:13:19,627
+- Eliminou-os com um míssil.
+- Há algo mais, Major.
+
+74
+00:13:20,087 --> 00:13:22,085
+Isto não é um "táxi" vulgar.
+
+75
+00:13:22,487 --> 00:13:25,242
+Parece-me mais um
+avião de vigilância.
+
+76
+00:13:25,801 --> 00:13:28,779
+- Já detectaram o rasto?
+- O Billy está a tratar disso.
+
+77
+00:13:29,681 --> 00:13:30,935
+Um míssil, Dillon.
+
+78
+00:13:31,489 --> 00:13:34,291
+Muito sofisticado
+para rapaziada de montanha.
+
+79
+00:13:34,803 --> 00:13:36,988
+Acho que estão cada vez
+mais bem equipados.
+
+80
+00:13:37,781 --> 00:13:39,188
+Havia 12 guerrilheiros.
+
+81
+00:13:39,797 --> 00:13:43,513
+Eles levaram os dois homens
+do helicóptero, mas há algo mais.
+
+82
+00:13:43,915 --> 00:13:44,938
+Como assim?
+
+83
+00:13:45,188 --> 00:13:47,928
+Seis homens com botas do exército
+dos Estados Unidos.
+
+84
+00:13:48,178 --> 00:13:51,264
+Eles vieram do norte
+e depois seguiram os guerrilheiros.
+
+85
+00:13:53,411 --> 00:13:55,154
+Isto diz-te alguma coisa?
+
+86
+00:13:56,986 --> 00:14:00,656
+Talvez outra patrulha de rebeldes.
+Operam aqui a toda a hora.
+
+87
+00:14:02,997 --> 00:14:05,530
+- Vai à frente e vê o que descobres.
+- Sim, senhor.
+
+88
+00:14:36,384 --> 00:14:37,655
+Que é que ele detectou?
+
+89
+00:14:37,905 --> 00:14:41,047
+O mesmo. Guerrilheiros a levar
+os dois tipos do helicóptero,
+
+90
+00:14:41,297 --> 00:14:43,344
+seguidos por homens
+com material americano.
+
+91
+00:14:44,293 --> 00:14:45,913
+Lembra-se do Afeganistão?
+
+92
+00:14:46,407 --> 00:14:48,711
+Ando a tentar esquecer.
+Vá, vamos.
+
+93
+00:16:15,187 --> 00:16:16,903
+Santa Mãe de Deus.
+
+94
+00:16:44,088 --> 00:16:45,562
+Jim Hopper.
+
+95
+00:16:47,097 --> 00:16:48,628
+Mac, tira-os daí.
+
+96
+00:16:59,206 --> 00:17:00,860
+Eu conhecia estes homens.
+
+97
+00:17:01,398 --> 00:17:04,895
+Boinas Verdes de Fort Bragg.
+Que raio faziam aqui?
+
+98
+00:17:05,589 --> 00:17:08,031
+Não sei, Dutch.
+Isto é desumano.
+
+99
+00:17:08,994 --> 00:17:11,546
+Ninguém me disse que havia
+uma operação nesta área.
+
+100
+00:17:11,796 --> 00:17:13,283
+Não deviam estar aqui.
+
+101
+00:17:13,781 --> 00:17:15,269
+Alguém os mandou.
+
+102
+00:17:19,500 --> 00:17:21,609
+Os guerrilheiros esfolaram-nos?
+
+103
+00:17:22,607 --> 00:17:24,239
+Porque o fizeram?
+
+104
+00:17:26,091 --> 00:17:28,386
+Não é maneira de
+um soldado morrer.
+
+105
+00:17:33,004 --> 00:17:35,501
+- Que aconteceu aqui, Billy?
+- É estranho, Major.
+
+106
+00:17:36,591 --> 00:17:37,866
+Houve luta.
+
+107
+00:17:39,296 --> 00:17:41,361
+Houve tiros em
+todas as direcções.
+
+108
+00:17:42,804 --> 00:17:45,021
+Não vejo o Jim Hopper
+a cair numa emboscada.
+
+109
+00:17:45,271 --> 00:17:46,708
+Não creio que o tenha feito.
+
+110
+00:17:47,993 --> 00:17:50,025
+Não consigo achar
+um único rasto.
+
+111
+00:17:51,307 --> 00:17:52,958
+Não faz sentido.
+
+112
+00:17:53,305 --> 00:17:56,793
+- E o resto dos homens do Hopper?
+- Não há qualquer sinal.
+
+113
+00:17:58,397 --> 00:17:59,749
+Nunca saíram daqui.
+
+114
+00:18:02,392 --> 00:18:04,504
+Parece que desapareceram.
+
+115
+00:18:07,898 --> 00:18:11,246
+Continua com o rasto dos guerrilheiros.
+Vamos buscar os reféns.
+
+116
+00:18:12,192 --> 00:18:15,683
+Avançamos, 5 metros afastados
+uns dos outros, sem barulho.
+
+117
+00:18:16,700 --> 00:18:19,638
+É hora de tirar do saco
+a "mata-sem-dor".
+
+118
+00:18:23,802 --> 00:18:25,184
+Hora da desforra.
+
+119
+00:19:57,187 --> 00:20:00,939
+Está a assombrar-nos, cabrão.
+Não importa quem você é na vida.
+
+120
+00:20:01,189 --> 00:20:06,307
+Se denunciar a nossa posição de novo,
+sangro-o, em silêncio, e deixo-o aqui.
+
+121
+00:20:06,987 --> 00:20:07,987
+Percebeu?
+
+122
+00:21:24,876 --> 00:21:25,876
+Vai-te foder.
+
+123
+00:21:55,897 --> 00:21:58,254
+Ele matou um dos reféns.
+Avançamos.
+
+124
+00:21:58,589 --> 00:22:00,343
+Mac, Blain, o ninho.
+
+125
+00:22:00,593 --> 00:22:03,639
+Billy, Poncho, o guarda.
+Hawkins, Dillon, dêem cobertura.
+
+126
+00:22:03,889 --> 00:22:06,866
+Quando eles estiverem prontos,
+ataco o depósito de combustível.
+
+127
+00:23:04,992 --> 00:23:06,102
+Um já foi.
+
+128
+00:24:06,601 --> 00:24:07,997
+Que raio está a fazer?
+
+129
+00:24:22,498 --> 00:24:23,864
+Mas que porra...
+
+130
+00:24:35,069 --> 00:24:36,243
+Acção, puto.
+
+131
+00:25:02,588 --> 00:25:04,326
+O alvo é o centro do campo.
+
+132
+00:25:28,882 --> 00:25:30,310
+Dutch, à tua esquerda!
+
+133
+00:26:36,082 --> 00:26:37,209
+Arruma aquele cabrão.
+
+134
+00:27:21,983 --> 00:27:23,218
+Fica por cá.
+
+135
+00:27:24,188 --> 00:27:25,533
+Os reféns estão lá dentro!
+
+136
+00:27:32,301 --> 00:27:33,359
+Truz-truz.
+
+137
+00:27:43,892 --> 00:27:44,920
+Eu apanho-os.
+
+138
+00:27:45,384 --> 00:27:50,019
+Hawkins, comunica a posição e a situação.
+Chama o controlo de operações.
+
+139
+00:27:50,397 --> 00:27:51,533
+Para já, Major.
+
+140
+00:27:59,789 --> 00:28:01,001
+Merda.
+
+141
+00:28:01,896 --> 00:28:04,692
+Mac, há sinais do outro refém?
+
+142
+00:28:05,794 --> 00:28:07,281
+Encontrei o outro tipo,
+
+143
+00:28:07,646 --> 00:28:11,038
+também está morto...
+e o equipamento do helicóptero.
+
+144
+00:28:11,288 --> 00:28:14,266
+Mas se eles são centro-americanos,
+eu sou chinoca.
+
+145
+00:28:14,693 --> 00:28:19,427
+Parece que o nosso ministro era da CIA.
+Outra coisa, Major. Tiveram sorte.
+
+146
+00:28:19,677 --> 00:28:23,085
+Os outros gajos que eles mataram
+eram conselheiros militares russos.
+
+147
+00:28:24,097 --> 00:28:26,138
+Algo importante ia acontecer aqui.
+
+148
+00:28:26,388 --> 00:28:29,104
+Bom trabalho, Mac.
+Limpa a área. Nada de vestígios.
+
+149
+00:28:29,354 --> 00:28:31,475
+- Prepara os homens para avançar.
+- Certo.
+
+150
+00:28:39,599 --> 00:28:42,379
+O sacana está firme como
+uma carraça do Alabama.
+
+151
+00:28:43,302 --> 00:28:46,881
+- Foste atingido. Estás a sangrar.
+- Não tenho tempo para sangrar.
+
+152
+00:28:49,003 --> 00:28:50,172
+Está bem.
+
+153
+00:28:55,002 --> 00:28:56,601
+Tens tempo para te baixares?
+
+154
+00:29:03,000 --> 00:29:04,547
+Isto é uma beleza.
+
+155
+00:29:09,090 --> 00:29:12,810
+Raio de <i>jackpot</i>.
+Mais do que esperávamos obter.
+
+156
+00:29:14,889 --> 00:29:16,440
+Apanhámos os sacanas.
+
+157
+00:29:19,000 --> 00:29:21,407
+- Apanhámo-los.
+- Acho que procuras isto.
+
+158
+00:29:22,295 --> 00:29:26,497
+Montaste-nos uma armadilha!
+É tudo treta. Tudo.
+
+159
+00:29:26,894 --> 00:29:30,748
+O ministro do governo, tudo.
+Viemos fazer o teu trabalho sujo.
+
+160
+00:29:30,998 --> 00:29:34,843
+Impedimos uma grande invasão.
+Em 3 dias, passavam a fronteira.
+
+161
+00:29:35,093 --> 00:29:38,253
+- Porquê nós?
+- Porque mais ninguém o conseguia fazer.
+
+162
+00:29:38,503 --> 00:29:41,146
+Estás lixado por causa do pretexto.
+Não terias vindo.
+
+163
+00:29:41,396 --> 00:29:43,400
+Então, que história
+contaste ao Hopper?
+
+164
+00:29:43,779 --> 00:29:45,751
+Há meses que procuramos este lugar.
+
+165
+00:29:46,001 --> 00:29:48,242
+Os meus homens
+estavam no helicóptero!
+
+166
+00:29:48,492 --> 00:29:50,654
+O Hopper foi buscá-los e sumiu.
+
+167
+00:29:50,904 --> 00:29:53,011
+Não sumiu, foi esfolado vivo!
+
+168
+00:29:53,261 --> 00:29:55,561
+Tive de arranjar alguém
+que matasse os sacanas!
+
+169
+00:29:55,811 --> 00:29:59,382
+Por isso, tramaste uma história
+e deixaste-nos aqui os seis na alhada.
+
+170
+00:30:02,483 --> 00:30:04,182
+Que te aconteceu, Dillon?
+
+171
+00:30:05,187 --> 00:30:07,323
+Já foste alguém em quem confiava.
+
+172
+00:30:08,403 --> 00:30:09,743
+Eu acordei.
+
+173
+00:30:10,505 --> 00:30:12,254
+E porque não acordas tu?
+
+174
+00:30:13,022 --> 00:30:14,299
+És um bem,
+
+175
+00:30:14,981 --> 00:30:16,932
+um bem dispensável,
+
+176
+00:30:17,893 --> 00:30:21,117
+e usei-te para fazer este trabalho.
+Percebeste?
+
+177
+00:30:24,197 --> 00:30:26,396
+Os meus homens
+não são dispensáveis.
+
+178
+00:30:29,197 --> 00:30:31,397
+E eu não faço este tipo de trabalho.
+
+179
+00:30:31,792 --> 00:30:33,989
+Major, metemo-nos
+numa grande merda.
+
+180
+00:30:36,592 --> 00:30:39,383
+A vigilância aérea diz haver
+guerrilheiros por todo o lado.
+
+181
+00:30:39,633 --> 00:30:41,026
+A menos de 2 ou 3 km.
+
+182
+00:30:41,276 --> 00:30:43,370
+- Quanto tempo temos?
+- Meia hora, ou menos.
+
+183
+00:30:43,620 --> 00:30:47,926
+- Diz ao Mac que saímos daqui a 5 minutos.
+- Ela vai connosco. É demasiado valiosa.
+
+184
+00:30:48,176 --> 00:30:51,223
+Ela denuncia a nossa posição
+assim que puder. Nada feito.
+
+185
+00:30:51,600 --> 00:30:53,221
+Ainda estás sob ordens, Major.
+
+186
+00:30:53,494 --> 00:30:55,228
+Fazes a chamada ou faço eu?
+
+187
+00:30:57,599 --> 00:31:01,070
+Ela é a tua bagagem.
+Atrasas-te e ficas por tua conta.
+
+188
+00:31:10,311 --> 00:31:14,251
+Este local é perigoso para recolha.
+Não nos tocam até passarmos a fronteira.
+
+189
+00:31:14,501 --> 00:31:19,299
+Billy, dá-me uma saída deste buraco.
+Parece que estamos isolados.
+
+190
+00:31:20,086 --> 00:31:23,321
+A única forma de sair daqui
+é aquele vale que dá para leste.
+
+191
+00:31:24,094 --> 00:31:26,152
+Mas eu não faria isso.
+
+192
+00:31:27,584 --> 00:31:28,821
+Não temos escolha.
+
+193
+00:31:29,503 --> 00:31:31,805
+Poncho, lidera.
+Acelera o passo.
+
+194
+00:31:52,173 --> 00:31:53,173
+Dillon.
+
+195
+00:31:56,134 --> 00:31:57,134
+Aqui.
+
+196
+00:32:10,482 --> 00:32:12,299
+- Vire-se.
+- Porquê?
+
+197
+00:32:24,089 --> 00:32:25,145
+Obrigado.
+
+198
+00:32:26,787 --> 00:32:27,835
+De nada.
+
+199
+00:32:34,200 --> 00:32:35,200
+Billy.
+
+200
+00:32:37,793 --> 00:32:41,740
+No outro dia, estava em cima
+da minha namorada e disse-lhe:
+
+201
+00:32:41,990 --> 00:32:44,999
+"Tens uma rata grande.
+Tens uma rata grande."
+
+202
+00:32:45,297 --> 00:32:48,792
+E ela: "Porque repetiste isso?"
+E eu: "Não repeti nada."
+
+203
+00:32:51,979 --> 00:32:53,886
+Era por causa do eco.
+
+204
+00:34:19,499 --> 00:34:20,993
+<i>Aqui. Aqui.</i>
+
+205
+00:34:23,689 --> 00:34:25,322
+<i>Vire-se. Vire-se.</i>
+
+206
+00:34:35,103 --> 00:34:36,434
+<i>De nada.</i>
+
+207
+00:34:51,098 --> 00:34:52,310
+<i>De nada.</i>
+
+208
+00:36:37,511 --> 00:36:38,731
+Caramba!
+
+209
+00:36:41,093 --> 00:36:42,506
+Amigo, amigo.
+
+210
+00:36:43,980 --> 00:36:47,183
+Já vi mato difícil, meu,
+mas nada como isto.
+
+211
+00:36:48,188 --> 00:36:49,188
+Eu sei.
+
+212
+00:36:50,095 --> 00:36:51,392
+É dos diabos.
+
+213
+00:36:52,391 --> 00:36:54,700
+Faz o Camboja parecer o Kansas.
+
+214
+00:36:55,814 --> 00:36:58,928
+Toma, amigo,
+um pequeno sabor a casa.
+
+215
+00:37:03,379 --> 00:37:06,698
+Endoidece-se aqui,
+um gajo vive para sofrer.
+
+216
+00:37:15,201 --> 00:37:17,686
+Vá, querida, pára de fingir.
+Levanta-te.
+
+217
+00:37:19,099 --> 00:37:21,200
+Anda lá. Vais levantar-te?
+
+218
+00:37:32,085 --> 00:37:34,680
+Talvez fosse melhor atrelá-la,
+senhor agente.
+
+219
+00:37:42,908 --> 00:37:45,424
+Tenta de novo... por favor.
+
+220
+00:38:50,279 --> 00:38:52,070
+O que assustou o Billy?
+
+221
+00:38:52,972 --> 00:38:54,496
+Não sei explicar, Major.
+
+222
+00:38:54,793 --> 00:38:57,067
+Andou sobressaltado toda a manhã.
+
+223
+00:38:58,003 --> 00:39:00,932
+Aquele faro dele... é esquisito.
+
+224
+00:39:43,002 --> 00:39:44,002
+O que é?
+
+225
+00:39:47,497 --> 00:39:48,497
+Billy.
+
+226
+00:39:51,815 --> 00:39:53,741
+Que raio se passa contigo?
+
+227
+00:39:58,180 --> 00:40:00,126
+Há algo naquelas árvores.
+
+228
+00:40:37,497 --> 00:40:39,190
+<i>Vês alguma coisa?</i>
+
+229
+00:40:40,189 --> 00:40:42,095
+<i>Ali em cima, em frente.</i>
+
+230
+00:40:43,575 --> 00:40:44,782
+<i>Nada.</i>
+
+231
+00:40:46,298 --> 00:40:47,685
+<i>O que achas?</i>
+
+232
+00:40:54,106 --> 00:40:55,889
+Talvez não seja nada, Major.
+
+233
+00:41:52,603 --> 00:41:53,603
+Por favor.
+
+234
+00:43:08,302 --> 00:43:09,944
+Billy, vai pela esquerda.
+
+235
+00:43:10,194 --> 00:43:11,437
+Mac, pela direita.
+
+236
+00:43:11,991 --> 00:43:12,991
+Mas que...
+
+237
+00:43:14,074 --> 00:43:16,447
+- Este sangue não é dela.
+- Que raio lhe fizeste?!
+
+238
+00:43:16,697 --> 00:43:17,713
+Major...
+
+239
+00:43:18,588 --> 00:43:19,744
+... é melhor ver isto.
+
+240
+00:43:19,994 --> 00:43:21,438
+Encontraste o Hawkins?
+
+241
+00:43:21,992 --> 00:43:22,992
+Eu...
+
+242
+00:43:23,497 --> 00:43:24,715
+Não sei.
+
+243
+00:43:42,701 --> 00:43:44,446
+Santo nome de Deus!
+
+244
+00:43:45,399 --> 00:43:46,959
+Acho que é o Hawkins.
+
+245
+00:43:48,999 --> 00:43:52,136
+- Onde raio está o corpo dele?
+- Não há sinais dele.
+
+246
+00:43:54,298 --> 00:43:55,999
+Pergunta-lhe o que aconteceu.
+
+247
+00:44:17,096 --> 00:44:18,451
+Ela diz que a selva...
+
+248
+00:44:19,173 --> 00:44:20,543
+... ganhou vida e levou-o.
+
+249
+00:44:20,793 --> 00:44:21,823
+Treta!
+
+250
+00:44:22,109 --> 00:44:23,747
+Não foi o que ela disse.
+
+251
+00:44:24,710 --> 00:44:27,771
+- O que disse não faz sentido.
+- Os sapadores seguiram-nos...
+
+252
+00:44:28,021 --> 00:44:30,131
+Estão à nossa frente!
+Esta mulher...
+
+253
+00:44:31,510 --> 00:44:32,677
+Esperem!
+
+254
+00:44:34,175 --> 00:44:36,605
+Porque não lhe levaram
+o rádio ou a arma?
+
+255
+00:44:37,787 --> 00:44:39,323
+Porque é que ela não fugiu?
+
+256
+00:44:42,982 --> 00:44:43,982
+O Hopper.
+
+257
+00:44:44,487 --> 00:44:45,487
+O quê?
+
+258
+00:44:47,289 --> 00:44:49,286
+Fizeram o mesmo ao Jim Hopper.
+
+259
+00:44:54,902 --> 00:44:56,382
+Encontrar o corpo do Hawkins.
+
+260
+00:44:56,632 --> 00:44:59,972
+Em círculo, para lá e para cá.
+50 metros. Vamos.
+
+261
+00:46:51,274 --> 00:46:53,489
+Venham, seus cabrões.
+
+262
+00:46:54,185 --> 00:46:55,652
+Venham.
+
+263
+00:46:56,524 --> 00:46:58,736
+A "mata-sem-dor" está à espera.
+
+264
+00:47:27,977 --> 00:47:29,309
+Sargento!
+
+265
+00:47:35,286 --> 00:47:36,535
+Cabrão!
+
+266
+00:49:09,091 --> 00:49:10,907
+- Que aconteceu?
+- Eu vi-o.
+
+267
+00:49:11,272 --> 00:49:12,814
+- Viste o quê?
+- Eu vi-o.
+
+268
+00:49:31,086 --> 00:49:32,194
+O Blain.
+
+269
+00:49:33,004 --> 00:49:36,075
+Não tem queimaduras,
+nem estilhaços.
+
+270
+00:49:37,274 --> 00:49:41,970
+A ferida está derretida, cauterizada.
+O que faria isto a um homem?
+
+271
+00:49:42,792 --> 00:49:43,792
+Mac.
+
+272
+00:49:44,370 --> 00:49:45,486
+Olha para mim!
+
+273
+00:49:47,287 --> 00:49:48,342
+Quem fez isto?
+
+274
+00:49:48,793 --> 00:49:50,186
+Não sei, caramba.
+
+275
+00:49:50,497 --> 00:49:51,693
+Eu vi algo.
+
+276
+00:49:56,003 --> 00:49:58,459
+Nada. Nem a porra de um rasto.
+
+277
+00:49:58,872 --> 00:50:00,492
+Não há sangue nem corpos.
+
+278
+00:50:00,742 --> 00:50:02,236
+Não atingimos nada.
+
+279
+00:50:09,696 --> 00:50:10,696
+Dillon.
+
+280
+00:50:11,699 --> 00:50:13,198
+É melhor usares o rádio.
+
+281
+00:50:15,195 --> 00:50:16,195
+Mac.
+
+282
+00:50:17,699 --> 00:50:19,361
+- Sargento!
+- Sim, senhor.
+
+283
+00:50:19,611 --> 00:50:21,834
+Quero uma posição defensiva
+naquele cume.
+
+284
+00:50:22,084 --> 00:50:23,942
+Minado com tudo o que tivermos.
+
+285
+00:50:26,287 --> 00:50:28,571
+Mete-o no impermeável.
+Levamo-lo.
+
+286
+00:50:28,821 --> 00:50:30,169
+É para já.
+
+287
+00:51:34,584 --> 00:51:35,643
+Major.
+
+288
+00:51:35,893 --> 00:51:38,616
+Coloquei sinalizadores,
+granadas e minas.
+
+289
+00:51:38,866 --> 00:51:41,385
+Nada se aproxima daqui
+sem detonar algo.
+
+290
+00:51:42,678 --> 00:51:43,916
+Obrigado, Sargento.
+
+291
+00:51:46,095 --> 00:51:47,095
+Mac.
+
+292
+00:51:49,104 --> 00:51:50,749
+Ele era um bom soldado.
+
+293
+00:51:53,112 --> 00:51:54,333
+Ele era...
+
+294
+00:51:56,395 --> 00:51:57,779
+... meu amigo.
+
+295
+00:53:05,575 --> 00:53:06,820
+Adeus, irmão.
+
+296
+00:54:14,493 --> 00:54:17,789
+Blazer 1, repito,
+retirada necessária.
+
+297
+00:54:18,884 --> 00:54:21,132
+Repita, Blazer 1. Repita.
+
+298
+00:54:21,485 --> 00:54:25,688
+<i>Pedido de retirada negado.
+A área ainda está comprometida.</i>
+
+299
+00:54:25,938 --> 00:54:28,597
+<i>Ir para o sector 3000
+para retirar o preso.</i>
+
+300
+00:54:28,847 --> 00:54:31,669
+<i>Prioridade. Termino.
+Próximo contacto às 09h30.</i>
+
+301
+00:54:31,919 --> 00:54:34,830
+Entendido, Blazer 1.
+10:30 horas.
+
+302
+00:54:35,080 --> 00:54:36,225
+Sacanas.
+
+303
+00:54:37,181 --> 00:54:40,239
+Dizem que ainda estamos muito longe.
+Não arriscam a vir cá.
+
+304
+00:54:40,489 --> 00:54:43,577
+Somos bens, Dillon.
+Bens dispensáveis.
+
+305
+00:54:43,991 --> 00:54:46,500
+São ossos do ofício.
+Eu aceito isso.
+
+306
+00:54:46,750 --> 00:54:49,196
+Tretas. És como nós.
+
+307
+00:54:51,391 --> 00:54:54,565
+Que grande coisa pode um
+helicóptero fazer por nós aqui.
+
+308
+00:54:58,189 --> 00:54:59,312
+Sargento?
+
+309
+00:55:02,495 --> 00:55:03,707
+Quem nos atacou hoje?
+
+310
+00:55:04,731 --> 00:55:05,808
+Não sei.
+
+311
+00:55:06,588 --> 00:55:08,503
+Só vi um camuflado.
+
+312
+00:55:10,285 --> 00:55:11,420
+Ele estava lá.
+
+313
+00:55:12,691 --> 00:55:14,705
+Aqueles olhos desapareceram.
+
+314
+00:55:15,091 --> 00:55:16,132
+Que disseste?
+
+315
+00:55:17,210 --> 00:55:18,761
+Aqueles olhos, eles...
+
+316
+00:55:19,171 --> 00:55:20,727
+... desapareceram.
+
+317
+00:55:21,981 --> 00:55:23,601
+Só sei uma coisa:
+
+318
+00:55:24,099 --> 00:55:25,632
+atirei direito àquilo.
+
+319
+00:55:25,999 --> 00:55:28,471
+Gastei 200 cartuchos na Minigun.
+
+320
+00:55:28,996 --> 00:55:30,090
+Tudo.
+
+321
+00:55:30,488 --> 00:55:31,618
+Nada...
+
+322
+00:55:32,279 --> 00:55:34,614
+Nada na Terra sobreviveria.
+
+323
+00:55:35,702 --> 00:55:37,376
+Não àquela distância.
+
+324
+00:55:40,581 --> 00:55:41,581
+Mac.
+
+325
+00:55:42,396 --> 00:55:45,100
+Fazes a primeira vigia,
+depois descansas.
+
+326
+00:55:46,288 --> 00:55:48,432
+Pergunte-lhe o que ela viu.
+
+327
+00:55:48,682 --> 00:55:50,893
+Pergunte-lhe o que aconteceu
+ao Hawkins.
+
+328
+00:55:52,099 --> 00:55:53,330
+Pergunta-lhe.
+
+329
+00:56:03,007 --> 00:56:06,571
+Ela diz sempre a mesma merda:
+a selva ganhou vida e levou-o.
+
+330
+00:56:08,185 --> 00:56:11,633
+Billy, tu sabes alguma coisa.
+O que é?
+
+331
+00:56:12,978 --> 00:56:14,422
+Tenho medo, Poncho.
+
+332
+00:56:14,696 --> 00:56:17,538
+Treta! Não tens medo
+de nenhum homem.
+
+333
+00:56:18,289 --> 00:56:20,484
+Há algo aí à nossa espera.
+
+334
+00:56:22,504 --> 00:56:24,249
+E não é nenhum homem.
+
+335
+00:56:32,980 --> 00:56:34,521
+Vamos todos morrer.
+
+336
+00:56:37,878 --> 00:56:39,525
+Está a perder a calma.
+
+337
+00:56:39,775 --> 00:56:42,543
+Andam por aí uns tipos
+e temos de os abater.
+
+338
+00:56:42,793 --> 00:56:45,240
+Ainda não entendes, Dillon,
+pois não?
+
+339
+00:56:45,984 --> 00:56:48,942
+O que quer que seja,
+matou o Hopper
+
+340
+00:56:50,083 --> 00:56:51,777
+e agora quer-nos a nós.
+
+341
+00:56:57,490 --> 00:56:59,099
+Cá estamos de novo, irmão.
+
+342
+00:57:00,682 --> 00:57:02,100
+Só tu e eu.
+
+343
+00:57:03,094 --> 00:57:05,727
+Uma lua como esta,
+uma selva como esta.
+
+344
+00:57:06,480 --> 00:57:08,624
+A nossa pior noite, lembras-te?
+
+345
+00:57:09,593 --> 00:57:12,757
+Todo o pelotão.
+32 homens reduzidos a picado,
+
+346
+00:57:13,007 --> 00:57:15,982
+e nós escapámos. Só tu e eu.
+Mais ninguém.
+
+347
+00:57:16,390 --> 00:57:17,804
+Mesmo na crista.
+
+348
+00:57:19,697 --> 00:57:21,916
+Nem uma arranhadela,
+nem uma sequer...
+
+349
+00:57:22,166 --> 00:57:23,930
+Sabes, quem te apanhou...
+
+350
+00:57:24,180 --> 00:57:28,091
+... vai voltar. E quando o fizer,
+vou inscrever o teu nome nele.
+
+351
+00:57:29,704 --> 00:57:32,544
+Vou inscrever o teu nome nele.
+
+352
+00:57:52,631 --> 00:57:53,631
+Mac!
+
+353
+00:57:57,290 --> 00:57:59,087
+- Por aqui.
+- Onde raio estás?
+
+354
+00:58:14,424 --> 00:58:15,424
+Onde estás?
+
+355
+00:58:23,779 --> 00:58:24,779
+Céus!
+
+356
+00:58:25,490 --> 00:58:26,885
+Apanhei-te, cabrão.
+
+357
+00:58:27,592 --> 00:58:29,330
+Matei-te, seu merdas.
+
+358
+00:58:31,380 --> 00:58:32,871
+Mataste um javali.
+
+359
+00:58:34,590 --> 00:58:36,320
+Não encontraste coisa maior?
+
+360
+00:58:36,570 --> 00:58:39,048
+Vai-te foder, Poncho.
+Vai-te foder!
+
+361
+00:58:40,888 --> 00:58:42,329
+Onde está a rapariga?
+
+362
+00:58:42,685 --> 00:58:43,685
+Merda!
+
+363
+00:58:45,286 --> 00:58:47,235
+Porque não estava ninguém a vigiá-la?
+
+364
+00:58:51,791 --> 00:58:53,784
+Porque é que não tentou fugir?
+
+365
+00:58:54,386 --> 00:58:56,907
+Olhem para ela.
+Está cheia de medo.
+
+366
+00:58:57,992 --> 00:59:00,230
+Major, é melhor vir ver isto.
+
+367
+00:59:06,799 --> 00:59:08,729
+O corpo do Blain. Desapareceu.
+
+368
+00:59:09,990 --> 00:59:11,674
+Passou pelas armadilhas.
+
+369
+00:59:12,506 --> 00:59:14,560
+Levou-o mesmo debaixo
+dos nossos narizes.
+
+370
+00:59:28,781 --> 00:59:30,958
+Aquele javali tinha de detonar algo,
+
+371
+00:59:31,893 --> 00:59:33,629
+porque não há outras pistas.
+
+372
+00:59:33,879 --> 00:59:37,942
+Como é que alguém passava por isto
+e levava o Blain sem notarmos?
+
+373
+00:59:38,593 --> 00:59:40,769
+E porque não tentou matar
+um de nós?
+
+374
+00:59:42,083 --> 00:59:43,645
+Veio para levar o corpo.
+
+375
+00:59:44,903 --> 00:59:46,847
+Está a matar-nos à vez.
+
+376
+00:59:47,376 --> 00:59:48,747
+Como um caçador.
+
+377
+01:00:06,197 --> 01:00:08,036
+Está a usar as árvores.
+
+378
+01:00:19,384 --> 01:00:21,607
+Ontem, o que viste?
+
+379
+01:00:22,185 --> 01:00:24,804
+- Estás a perder tempo.
+- Chega de jogos.
+
+380
+01:00:28,684 --> 01:00:30,267
+Não sei o que era.
+
+381
+01:00:32,290 --> 01:00:33,963
+- Aquilo...
+- Continua.
+
+382
+01:00:34,489 --> 01:00:36,027
+... mudou de cor,
+
+383
+01:00:36,389 --> 01:00:37,650
+como um camaleão.
+
+384
+01:00:37,979 --> 01:00:39,386
+Serve-se da selva.
+
+385
+01:00:40,293 --> 01:00:43,479
+Estás a dizer que o Blain e o Hawkins
+foram mortos por um lagarto?
+
+386
+01:00:43,790 --> 01:00:47,725
+Isso é uma maluquice.
+Há 2 ou 3 homens por aí. Um lagarto!
+
+387
+01:00:51,683 --> 01:00:52,929
+Como te chamas?
+
+388
+01:00:53,492 --> 01:00:54,692
+Anna.
+
+389
+01:01:01,282 --> 01:01:04,316
+Esta coisa está a caçar-nos.
+A todos.
+
+390
+01:01:05,796 --> 01:01:06,935
+Sabes disso.
+
+391
+01:01:10,492 --> 01:01:12,989
+- O que estás a fazer?
+- Precisamos de todos.
+
+392
+01:01:13,239 --> 01:01:16,452
+- Vou levá-la de volta. Vamos embora.
+- Ainda não vamos.
+
+393
+01:01:16,702 --> 01:01:19,762
+O encontro é a 16 km daqui.
+Achas que o helicóptero espera?
+
+394
+01:01:20,012 --> 01:01:22,058
+Dillon, ou tomamos medidas já,
+
+395
+01:01:22,308 --> 01:01:24,862
+ou não resta ninguém
+para ir até ao helicóptero.
+
+396
+01:01:25,195 --> 01:01:26,413
+Há algo mais.
+
+397
+01:01:27,595 --> 01:01:30,647
+Quando o grandão foi morto,
+você deve tê-lo ferido.
+
+398
+01:01:31,395 --> 01:01:33,290
+Havia sangue dele nas folhas.
+
+399
+01:01:34,094 --> 01:01:36,772
+Se sangra, podemos matá-lo.
+
+400
+01:02:04,977 --> 01:02:06,011
+Cuidado.
+
+401
+01:02:26,804 --> 01:02:29,993
+Achas mesmo que esta treta
+de escuteiro vai resultar?
+
+402
+01:02:30,489 --> 01:02:34,003
+Consegue ver as nossas armadilhas.
+Talvez não consiga ver isto.
+
+403
+01:02:34,387 --> 01:02:37,609
+Em vez de te queixares,
+talvez fosse melhor ajudares.
+
+404
+01:03:37,007 --> 01:03:39,178
+O que te faz pensar
+que ele vem por aqui?
+
+405
+01:03:39,486 --> 01:03:42,233
+Há armadilhas em todas as árvores
+num raio de 45 metros.
+
+406
+01:03:42,483 --> 01:03:43,953
+Esta é a única entrada.
+
+407
+01:04:10,684 --> 01:04:13,044
+Quando era pequena,
+encontrámos um homem.
+
+408
+01:04:13,491 --> 01:04:14,848
+Ele parecia...
+
+409
+01:04:15,489 --> 01:04:17,219
+... ter sido retalhado.
+
+410
+01:04:17,597 --> 01:04:20,032
+As velhotas na aldeia benziam-se
+
+411
+01:04:20,282 --> 01:04:23,243
+e murmuravam coisas loucas,
+coisas estranhas.
+
+412
+01:04:28,000 --> 01:04:30,723
+Isto apenas acontece
+nos anos mais quentes.
+
+413
+01:04:33,689 --> 01:04:35,780
+E este ano faz muito calor.
+
+414
+01:04:38,092 --> 01:04:40,218
+Começámos a encontrar
+os nossos homens.
+
+415
+01:04:40,888 --> 01:04:43,842
+Por vezes,
+encontrámo-los esfolados.
+
+416
+01:04:44,396 --> 01:04:47,027
+E, às vezes,
+em muito pior estado.
+
+417
+01:04:53,167 --> 01:04:57,709
+Isto significa "o demónio
+que faz dos homens troféus".
+
+418
+01:05:17,092 --> 01:05:19,315
+Que vais tentar a seguir?
+Queijo?
+
+419
+01:05:23,889 --> 01:05:25,071
+Ei, Dutch.
+
+420
+01:07:11,490 --> 01:07:13,847
+Apanhei-te, cabrão!
+
+421
+01:07:16,186 --> 01:07:17,605
+Estou a caminho!
+
+422
+01:07:19,494 --> 01:07:22,947
+Mac! Põe o Ramirez de pé
+e vai para o helicóptero.
+
+423
+01:07:23,197 --> 01:07:26,437
+- Espera. Eu vou atrás do Mac.
+- Nem parece teu.
+
+424
+01:07:26,687 --> 01:07:29,593
+Pegaste-me alguns maus hábitos.
+Tira a tua gente daqui.
+
+425
+01:07:30,500 --> 01:07:31,936
+Não podes vencer isto, Dillon.
+
+426
+01:07:33,289 --> 01:07:34,992
+Talvez me possa vingar.
+
+427
+01:07:43,193 --> 01:07:45,092
+Aguenta o raio do helicóptero.
+
+428
+01:07:53,499 --> 01:07:55,569
+Está em péssimo estado, Major.
+
+429
+01:07:56,282 --> 01:07:57,482
+Eu consigo.
+
+430
+01:07:58,493 --> 01:08:00,361
+Leva o rádio. Esquece o resto.
+
+431
+01:08:01,174 --> 01:08:02,339
+Vamos, Poncho.
+
+432
+01:08:25,305 --> 01:08:28,392
+A Grande Sally
+Ela é doce
+
+433
+01:08:28,710 --> 01:08:32,024
+Ela tem tudo
+o que o Tio John precisa
+
+434
+01:08:32,371 --> 01:08:33,557
+Oh querida
+
+435
+01:08:36,988 --> 01:08:38,401
+Vou divertir-me
+
+436
+01:09:10,067 --> 01:09:11,067
+Vire-se.
+
+437
+01:09:15,183 --> 01:09:16,183
+Aqui.
+
+438
+01:09:22,023 --> 01:09:23,023
+Aqui.
+
+439
+01:09:30,483 --> 01:09:31,483
+Mac?
+
+440
+01:09:45,394 --> 01:09:46,496
+Acolá.
+
+441
+01:09:47,483 --> 01:09:49,137
+Depois das árvores.
+
+442
+01:09:52,478 --> 01:09:53,478
+Está a ver?
+
+443
+01:09:58,593 --> 01:10:00,672
+Eu estou a ver-te.
+
+444
+01:10:09,691 --> 01:10:10,823
+Estou a vê-lo.
+
+445
+01:10:16,488 --> 01:10:17,682
+Estou a vê-lo.
+
+446
+01:10:20,593 --> 01:10:22,735
+Podemos apanhar esta coisa, Mac.
+
+447
+01:10:24,481 --> 01:10:26,511
+Rasteje em direcção a ele.
+
+448
+01:10:26,897 --> 01:10:29,598
+Eu vou por trás dele
+e empurro-o para si.
+
+449
+01:10:29,912 --> 01:10:32,531
+Assim que o fizer,
+você acaba com ele.
+
+450
+01:10:32,781 --> 01:10:34,704
+Tenho de saldar uma dívida.
+
+451
+01:10:35,899 --> 01:10:37,638
+Ambos temos.
+
+452
+01:12:07,073 --> 01:12:09,260
+Vá. Depressa. Despacha-te.
+
+453
+01:12:09,979 --> 01:12:13,645
+Não, deixa-a. Ele não te matou
+porque estavas desarmada.
+
+454
+01:12:14,078 --> 01:12:15,420
+Não tinha piada.
+
+455
+01:12:47,486 --> 01:12:48,486
+Mac.
+
+456
+01:12:58,608 --> 01:12:59,608
+<i>De nada.</i>
+
+457
+01:14:17,088 --> 01:14:18,088
+Vamos.
+
+458
+01:14:29,173 --> 01:14:30,173
+Billy!
+
+459
+01:14:31,603 --> 01:14:32,857
+Billy, vamos!
+
+460
+01:14:59,791 --> 01:15:01,034
+Dá-me a arma!
+
+461
+01:15:57,271 --> 01:15:59,026
+- Não!
+- Foge!
+
+462
+01:16:08,691 --> 01:16:09,691
+Foge!
+
+463
+01:16:10,884 --> 01:16:11,884
+Vai!
+
+464
+01:16:12,577 --> 01:16:14,327
+Vai para o helicóptero!
+
+465
+01:16:59,755 --> 01:17:00,811
+Merda!
+
+466
+01:20:51,885 --> 01:20:53,523
+Não conseguiu ver-me.
+
+467
+01:32:07,817 --> 01:32:09,701
+Sangra, sacana.
+
+468
+01:35:42,386 --> 01:35:45,356
+És um cabrão mesmo feio.
+
+469
+01:36:03,621 --> 01:36:04,641
+Má ideia.
+
+470
+01:38:03,998 --> 01:38:05,120
+Anda.
+
+471
+01:38:07,677 --> 01:38:08,740
+Fá-lo.
+
+472
+01:38:14,125 --> 01:38:16,113
+Mata-me. Estou aqui.
+Mata-me!
+
+473
+01:39:46,001 --> 01:39:47,911
+Que raio és tu?
+
+474
+01:39:52,190 --> 01:39:54,907
+Que raio...
+
+475
+01:39:55,576 --> 01:39:57,405
+... és tu?
+
+476
+01:40:59,609 --> 01:41:01,089
+C'um caraças!
+
+477
+01:41:11,953 --> 01:41:12,953
+Mas que...
+
+478
+01:41:17,182 --> 01:41:19,046
+Meu Deus!
+
+479
+01:42:53,055 --> 01:42:54,860
+Legendagem base
+José A. Fernandes
+
+480
+01:42:55,110 --> 01:42:56,947
+Adaptação
+HomemDasLegendas
+
